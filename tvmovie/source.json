@@ -265,7 +265,7 @@
         "id": 37,
         "name": "88特殊.优果资源",
         "api": "https://www.ugvapi.com/inc/zyapimac.php",
-        "click": true,
+        "click": false,
         "searchFilter": false
     },
     {
