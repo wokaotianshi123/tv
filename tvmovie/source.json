@@ -278,7 +278,7 @@
     {
         "id": 39,
         "name": "94特殊.博天堂",
-        "api": "http://bttcj.com/inc/sapi.php",
+        "api": "http://bttcj.com/inc/sapi.php?ac=videolist&pg=1",
         "click": true,
         "searchFilter": false
     },
