@@ -300,7 +300,7 @@
               "id": 45,
                     "name": "av888资源",
 
-                          "api": "http://m.7777688.com/inc/api.php",
+                          "api": "http://mygzycj.com/api.php?ac=videolist&pg=1",
                                 "click": true,
                                       "searchFilter": false
     },
