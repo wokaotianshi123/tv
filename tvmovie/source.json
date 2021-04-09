@@ -333,14 +333,14 @@
                              "searchFilter": false
  },
  {
-           "id": 49,
+           "id": 52,
                  "name": "老鸭资源",
                        "api": "http://laoyazy.vip/api.php/provide/vod/at/xml/",
                        "click": true,
                              "searchFilter": false
  },
  {
-           "id": 49,
+           "id": 53,
                  "name": "1024资源",
                        "api": "https://www.1024nf.com/api.php/provide/vod/at/xml/",
                        "click": true,
