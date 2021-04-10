@@ -993,13 +993,13 @@
     {
       "id": 1,
       "parseName": "主线路",
-      "parseUrl": "http://api.baiyug.vip/index.php?url=",
+      "parseUrl": "https://tianshideyou.gitee.io/personal-blog/?url=",
       "click": true
     },
     {
       "id": 2,
       "parseName": "线路1",
-      "parseUrl": "http://egwang186.gitee.io/?url=",
+      "parseUrl": "http://api.baiyug.vip/index.php?url=",
       "click": true
     },
     {
