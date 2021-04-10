@@ -2,6 +2,20 @@
   "homeNote": "声明：所有资源来自网上，该软件不参与任何制作、上传、储存、下载等内容，视频解析均来自第三方免费解析。 该软件仅供学习参考，请于安装后24小时内删除，视频中广告均为源站行为，与本App无关",
   "homeQQGroup": "https://gitee.com/pj567/TVMovie/raw/master/source/qq_group3.png",
   "vodApi": [
+      {
+      "id": 54,
+      "name": "1717资源",
+      "api": "http://zy.itono.cn/inc/api.php",
+      "click": true,
+      "searchFilter": false
+    },
+    {
+      "id": 55,
+      "name": "7k资源",
+      "api": "https://zy.7kjx.com/cjapi.php",
+      "click": true,
+      "searchFilter": false
+    },
      {
         "id": 0,
         "name": "8090资源",
