@@ -993,8 +993,7 @@
     {
       "id": 1,
       "parseName": "主线路",
-      "parseUrl": "http://api.baiyug.vip/index.php?url=
-",
+      "parseUrl": "http://api.baiyug.vip/index.php?url=",
       "click": true
     },
     {
