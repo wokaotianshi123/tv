@@ -6,14 +6,14 @@
       "id": 54,
       "name": "1717资源",
       "api": "http://zy.itono.cn/inc/api.php",
-      "click": true,
+      "click": false,
       "searchFilter": false
     },
     {
       "id": 55,
       "name": "7k资源",
       "api": "https://zy.7kjx.com/cjapi.php",
-      "click": true,
+      "click": false,
       "searchFilter": false
     },
      {
@@ -34,7 +34,7 @@
         "id": 51,
         "name": "肖先生",
         "api": "http://cs.syg520.cn/api.php/provide/vod/at/xml?ac=videolist&pg=1",
-        "click": true,
+        "click": false,
         "searchFilter": false
     },
     {
