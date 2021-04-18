@@ -139,7 +139,7 @@
         "id": 16,
         "name": "乐多资源",
         "api": "http://www.leduozy.com/inc/seacmsapi.php",
-        "click": true,
+        "click": false,
         "searchFilter": false
     },
     {
