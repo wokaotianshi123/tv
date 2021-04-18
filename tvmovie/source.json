@@ -33,8 +33,8 @@
     {
         "id": 51,
         "name": "肖先生",
-        "api": "http://cs.syg520.cn/api.php/provide/vod/at/xml?ac=videolist&pg=1",
-        "click": false,
+        "api": "http://cs.syg520.cn/api.php/provide/vod/at/xml",
+        "click": true,
         "searchFilter": false
     },
     {
