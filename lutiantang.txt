@@ -56,9 +56,9 @@
 
 《直播接口》http://api.hclyz.com:81/mf/《直播接口》
 
-《首页接口》http://ccccccxxx.45sp.cc/cm/cmtv.php《首页接口》http://ccccccxxx.45sp.cc/cm/cmtv.php
+《首页接口》http://api.qiqiuqq.cn/api/14/list.php《首页接口》http://ccccccxxx.45sp.cc/cm/cmtv.php
 
-《搜索接口》http://ccccccxxx.45sp.cc/sg/sgss.php《搜索接口》向日葵接口：http://api.qiqiuqq.cn/api/1/sou.php
+《搜索接口》http://api.qiqiuqq.cn/api/14/sou.php《搜索接口》向日葵接口：http://api.qiqiuqq.cn/api/1/sou.php
 
 ★★幼女人兽系列搜索接口★★：http://api.qiqiuqq.cn/api/17/sou.php
 
