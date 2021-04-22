@@ -1103,6 +1103,10 @@
   ],
   "searchApi": [
     {
+      "type": "kuyun",
+      "api": "http://vs.sugg.sogou.com/sugg/ajaj_json.jsp?type=vc&key=%s"
+    },
+    {
       "type": "douban",
       "api": "https://movie.douban.com/j/subject_suggest?q=%s"
     },
