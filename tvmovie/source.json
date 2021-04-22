@@ -1103,8 +1103,12 @@
   ],
   "searchApi": [
     {
-      "type": "kuyun",
+      "type": "sogou",
       "api": "http://vs.sugg.sogou.com/sugg/ajaj_json.jsp?type=vc&key=%s"
+    },
+     {
+      "type": "kuyun",
+      "api": "http://api.kunyu77.com/api.php/provide/searchVideo?searchName=%s&pg=1&"
     },
     {
       "type": "douban",
