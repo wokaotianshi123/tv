@@ -1032,73 +1032,73 @@
       "id": 5,
       "parseName": "线路4",
       "parseUrl": "https://www.qianyicp.com/jiexi/index.php?url=",
-      "click": true
+      "click": false
     },
     {
       "id": 6,
       "parseName": "线路5",
       "parseUrl": "https://www.xymav.com/?url=",
-      "click": true
+      "click": false
     },
     {
       "id": 7,
       "parseName": "线路6",
       "parseUrl": "https://www.1717yun.com/jx/ty.php?url=",
-      "click": true
+      "click": false
     },
     {
       "id": 8,
       "parseName": "线路7",
       "parseUrl": "https://jx.mw0.cc/?url=\"",
-      "click": true
+      "click": false
     },
     {
       "id": 9,
       "parseName": "线路8",
       "parseUrl": "https://jx.618g.com/?url=",
-      "click": true
+      "click": false
     },
     {
       "id": 10,
       "parseName": "线路9",
       "parseUrl": "https://plamgtvcache.ccyjjd.com/play.php?url=",
-      "click": true
+      "click": false
     },
     {
       "id": 11,
       "parseName": "线路10",
       "parseUrl": "https://pay.520yk.cn/256/?url=",
-      "click": true
+      "click": false
     },
     {
       "id": 12,
       "parseName": "线路11",
       "parseUrl": "https://www.nxflv.com/?url=",
-      "click": true
+      "click": false
     },
     {
       "id": 13,
       "parseName": "线路12",
       "parseUrl": "https://www.administratorw.com/index/qqvod.php?url=",
-      "click": true
+      "click": false
     },
     {
       "id": 14,
       "parseName": "线路13",
       "parseUrl": "http://v.renrenfabu.com/jiexi.php?url=",
-      "click": true
+      "click": false
     },
     {
       "id": 15,
       "parseName": "线路14",
       "parseUrl": "https://www.administratorw.com/video.php?url=",
-      "click": true
+      "click": false
     },
     {
       "id": 16,
       "parseName": "线路15",
       "parseUrl": "https://www.administratorw.com/admin.php?url=",
-      "click": true
+      "click": false
     }
   ],
   "searchApi": [
