@@ -1008,7 +1008,7 @@
       "id": 1,
       "parseName": "主线路",
       "parseUrl": "https://tianshideyou.gitee.io/personal-blog/?url=",
-      "click": true
+      "click": false
     },
     {
       "id": 2,
