@@ -109,8 +109,8 @@
     },
     {
         "id": 12,
-        "name": "沃酷云播",
-        "api": "http://api.wokuzy.com/api/xml/wokull",
+        "name": "好好资源",
+        "api": "http://haohaozy.com/api.php/provide/vod/at/xml/",
         "click": true,
         "searchFilter": false
     },
