@@ -1006,97 +1006,97 @@
   "prase": [
     {
       "id": 1,
-      "parseName": "主线路",
+      "parseName": "解析",
       "parseUrl": "https://tianshideyou.gitee.io/personal-blog/?url=",
       "click": true
     },
     {
       "id": 2,
-      "parseName": "线路1",
+      "parseName": "解析",
       "parseUrl": "http://api.baiyug.vip/index.php?url=",
       "click": true
     },
     {
       "id": 3,
-      "parseName": "线路2",
+      "parseName": "解析",
       "parseUrl": "https://www.playm3u8.cn/jiexi.php?url=",
       "click": true
     },
     {
       "id": 4,
-      "parseName": "线路3",
+      "parseName": "解析",
       "parseUrl": "https://www.ckmov.vip/api.php?url=",
       "click": true
     },
     {
       "id": 5,
-      "parseName": "线路4",
+      "parseName": "解析",
       "parseUrl": "https://www.qianyicp.com/jiexi/index.php?url=",
       "click": false
     },
     {
       "id": 6,
-      "parseName": "线路5",
+      "parseName": "解析",
       "parseUrl": "https://www.xymav.com/?url=",
       "click": false
     },
     {
       "id": 7,
-      "parseName": "线路6",
+      "parseName": "解析",
       "parseUrl": "https://www.1717yun.com/jx/ty.php?url=",
       "click": false
     },
     {
       "id": 8,
-      "parseName": "线路7",
+      "parseName": "解析",
       "parseUrl": "https://jx.mw0.cc/?url=\"",
       "click": false
     },
     {
       "id": 9,
-      "parseName": "线路8",
+      "parseName": "解析",
       "parseUrl": "https://jx.618g.com/?url=",
       "click": false
     },
     {
       "id": 10,
-      "parseName": "线路9",
+      "parseName": "解析",
       "parseUrl": "https://plamgtvcache.ccyjjd.com/play.php?url=",
       "click": false
     },
     {
       "id": 11,
-      "parseName": "线路10",
+      "parseName": "解析",
       "parseUrl": "https://pay.520yk.cn/256/?url=",
       "click": false
     },
     {
       "id": 12,
-      "parseName": "线路11",
+      "parseName": "解析",
       "parseUrl": "https://www.nxflv.com/?url=",
       "click": false
     },
     {
       "id": 13,
-      "parseName": "线路12",
+      "parseName": "解析",
       "parseUrl": "https://www.administratorw.com/index/qqvod.php?url=",
       "click": false
     },
     {
       "id": 14,
-      "parseName": "线路13",
+      "parseName": "解析",
       "parseUrl": "http://v.renrenfabu.com/jiexi.php?url=",
       "click": false
     },
     {
       "id": 15,
-      "parseName": "线路14",
+      "parseName": "解析",
       "parseUrl": "https://www.administratorw.com/video.php?url=",
       "click": false
     },
     {
       "id": 16,
-      "parseName": "线路15",
+      "parseName": "解析",
       "parseUrl": "https://www.administratorw.com/admin.php?url=",
       "click": false
     }
