@@ -19,7 +19,7 @@
     "name":"8090",
     "type":"wzxml",
     "api":"http://zy.yilans.net:8090/api.php/provide/vod/at/xml",
-    "download":"https://tianshideyou.gitee.io/personal-blog/?url="
+    "download":"https://www.8090.la/api/?url="
 },  
 {
     "name":"穿梭",
