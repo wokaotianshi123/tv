@@ -8,12 +8,20 @@
     "type":"json",
     "api":"http://4k.4kyima.com/api.php/provide/vod/",
     "download":"空"
-}, {
+}, 
+{
     "name":"蘑菇",
     "type":"wzxml",
     "api":"http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml",
     "download":"http://player.maguays.cc/?url="
-}, {
+},
+{
+    "name":"8090",
+    "type":"wzxml",
+    "api":"http://zy.yilans.net:8090/api.php/provide/vod/at/xml",
+    "download":"https://tianshideyou.gitee.io/personal-blog/?url="
+},  
+{
     "name":"穿梭",
     "type":"json",
     "api":"http://m3u8.apibdzy.com/api.php/provide/vod/",
