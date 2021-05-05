@@ -61,7 +61,7 @@
     {
         "id": 5,
         "name": "4Kyima",
-        "api": "https://4k.4kyima.com/m3u8.php",
+        "api": "https://4k.4kyima.com/api.php/provide/vod/at/xml/?ac=list",
         "click": true,
         "searchFilter": false
     },
