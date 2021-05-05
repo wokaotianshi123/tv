@@ -60,8 +60,8 @@
     },
     {
         "id": 5,
-        "name": "789盘",
-        "api": "http://wei.789pan.cn/api.php/provide/vod/at/xml",
+        "name": "4Kyima",
+        "api": "https://4k.4kyima.com/m3u8.php",
         "click": true,
         "searchFilter": false
     },
