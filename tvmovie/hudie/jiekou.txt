@@ -1,7 +1,7 @@
 <ds资源>http://qiqiuqq.cn/api/1/sou.php</ds资源>
 ﻿<向日葵>http://qiqiuqq.cn/api/16/list.php</向日葵>
 <芭乐>http://qiqiuqq.cn/api/1/list.php</芭乐>
-<三百MM>http://qiqiuqq.cn/api/4/list.php</三百MM>
+<三百MM>http://qiqiuqq.cn/api/2/list.php</三百MM>
 <李白>http://qiqiuqq.cn/api/19/list.php</李白>
 <酷牛视频>http://qiqiuqq.cn/api/12/list.php</酷牛视频>
 <猫咪视频>http://qiqiuqq.cn/api/2/list.php</猫咪视频>
