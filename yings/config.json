@@ -451,7 +451,7 @@
       "url": "https://m.pptv.com/"
     }
   ],
-  "openAd": true,
+  "openAd": false,
   "hint": "",
   "about": "本软件所有资源来自网上，不参与任何制作、上传、下载、存储等内容，不能作为商业软件使用，请于安装后24小时内删除。",
   "hintVersion": 0
