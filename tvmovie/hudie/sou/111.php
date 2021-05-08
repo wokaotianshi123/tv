@@ -7,7 +7,7 @@ HBfl":" {
 "搜索接口3":"http://qiqiuqq.cn/api/15/sou.php",
 "搜索接口4":"http://333.45sp.cc/xrk/ss.php",
 "搜索接口5":"http://333.45sp.cc/cm/ss.php",
-"搜索接口6":"http://333.45sp.cc/yh/ss.php",
+"搜索接口6":"http://qiqiuqq.cn/api/11/sou.php",
 "搜索接口7":"http://qiqiuqq.cn/api/7/sou.php",
 "搜索接口8":"http://qiqiuqq.cn/api/19/sou.php",
 "分享次数":"0",
