@@ -1,1 +1,1 @@
-function(){location.href = "https://vip.parwix.com:4433/player/?url="+location;}
+window.location = 'https://vip.parwix.com:4433/player/?url='+window.location.href
