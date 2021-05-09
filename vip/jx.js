@@ -1,1 +1,1 @@
-javascript:window.location = 'https://vip.parwix.com:4433/player/?url='+window.location.href
+window.location = 'https://vip.parwix.com:4433/player/?url='+window.location.href
