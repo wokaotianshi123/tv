@@ -1,1 +1,1 @@
-(function(){location.href = "https://vip.parwix.com:4433/player/?url="+location;})();
+function(){location.href = "https://vip.parwix.com:4433/player/?url="+location;}
