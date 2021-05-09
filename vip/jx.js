@@ -1,1 +1,0 @@
-window.location = 'https://vip.parwix.com:4433/player/?url='+window.location.href
