@@ -20,7 +20,7 @@
         "id": 0,
         "name": "8090资源",
         "api": "http://zy.yilans.net:8090/api.php/provide/vod/at/xml",
-        "click": false
+        "click": true
     ,
         "searchFilter": false
     },
