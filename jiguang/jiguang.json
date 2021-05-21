@@ -88,31 +88,6 @@
                 "url": "https://m3u8.tiankongapi.com/api.php/provide/vod/at/xml/",
                 "name": "天空资源站",
                 "desc": "速度挺快，画质一般"
-            },
-            {
-                "url": "http://shidian.vip/api.php/provide/vod/from/4kdym/at/xml/",
-                "name": "十点资源站",
-                "desc": "速度挺快，画质一般"
-            },
-            {
-                "url": "http://4k.4kyima.com/api.php/provide/vod/at/xml/",
-                "name": "4k资源站",
-                "desc": "速度挺快，画质高清"
-            },
-            {
-                "url": "https://www.hktvyb.com/api.php/provide/vod/at/xml/",
-                "name": "TVB云播",
-                "desc": "速度挺快，画质一般"
-            },
-            {
-                "url": "https://www.zhaikanys.com/api.php/provide/vod/at/xml/",
-                "name": "宅看资源站",
-                "desc": "速度挺快，画质一般"
-            },
-            {
-                "url": "http://diliktv.com/api.php/provide/vod/at/xml/",
-                "name": "嘀哩嘀哩资源站",
-                "desc": "速度挺快，画质高清"
             }
         ],
         "ad_config": {
