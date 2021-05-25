@@ -1,0 +1,521 @@
+{
+  "source": [
+    {
+      "type": "",
+      "sourceName": "90",
+      "baseUrl": "http://www.9xku.com",
+      "apiUrl": "http://www.9xku.com/api.php/provide/vod/at/xml",
+      "detailUrl": "",
+      "playListUrl": "",
+      "parserUrl": "",
+      "level": 1
+    },
+    {
+      "type": "",
+      "sourceName": "宅看",
+      "baseUrl": "https://www.zhaikanys.com",
+      "apiUrl": "https://www.zhaikanys.com/api.php/provide/vod/at/xml",
+      "detailUrl": "",
+      "playListUrl": "",
+      "parserUrl": "",
+      "level": 1
+    },
+    {
+      "type": "",
+      "sourceName": "7k",
+      "baseUrl": "https://zy.7kjx.com",
+      "apiUrl": "https://zy.7kjx.com/api.php/provide/vod/at/xml",
+      "detailUrl": "",
+      "playListUrl": "",
+      "parserUrl": "https://url.js.cn/?url=",
+      "level": 1
+    },
+    {
+      "type": "",
+      "sourceName": "乐多",
+      "baseUrl": "http://api.leduozy.com",
+      "apiUrl": "http://api.leduozy.com/inc/seacmsapi.php",
+      "detailUrl": "",
+      "playListUrl": "",
+      "parserUrl": "https://api.leduotv.com/wp-api/ifr.php?isDp=1&vid=",
+      "level": 1
+    },
+    {
+      "type": "",
+      "sourceName": "未来",
+      "baseUrl": "https://qsulfji.cn",
+      "apiUrl": "https://qsulfji.cn/api.php/provide/vod/at/xml",
+      "detailUrl": "",
+      "playListUrl": "",
+      "parserUrl": "",
+      "level": 1
+    },
+    {
+      "type": "",
+      "sourceName": "恐怖鸭",
+      "baseUrl": "https://kongbuya.com",
+      "apiUrl": "https://kongbuya.com/api.php/provide/vod/at/xml/",
+      "detailUrl": "",
+      "playListUrl": "",
+      "parserUrl": "",
+      "level": 1
+    },
+    {
+      "type": "",
+      "sourceName": "605",
+      "baseUrl": "http://www.605zy.co",
+      "apiUrl": "http://www.605zy.co/inc/api.php",
+      "detailUrl": "",
+      "playListUrl": "",
+      "parserUrl": "",
+      "level": 1
+    },
+    {
+      "type": "",
+      "sourceName": "麻花",
+      "baseUrl": "https://www.mhapi123.com",
+      "apiUrl": "https://www.mhapi123.com/inc/ldg_api_all.php",
+      "detailUrl": "",
+      "playListUrl": "",
+      "parserUrl": "",
+      "level": 1
+    },
+    {
+      "type": "",
+      "sourceName": "麻瓜",
+      "baseUrl": "http://maguays.cc",
+      "apiUrl": "http://maguays.cc/api.php/provide/vod/at/xml",
+      "detailUrl": "",
+      "playListUrl": "",
+      "parserUrl": "",
+      "level": 1
+    },
+    {
+      "type": "",
+      "sourceName": "八戒",
+      "baseUrl": "http://cj.bajiecaiji.com",
+      "apiUrl": "http://cj.bajiecaiji.com/inc/api.php",
+      "detailUrl": "",
+      "playListUrl": "",
+      "parserUrl": "",
+      "level": 1
+    },
+    {
+      "type": "",
+      "sourceName": "快播",
+      "baseUrl": "http://www.kuaibozy.com",
+      "apiUrl": "http://www.kuaibozy.com/api.php/provide/vod/at/xml",
+      "detailUrl": "",
+      "playListUrl": "",
+      "parserUrl": "",
+      "level": 1
+    },
+    {
+      "type": "",
+      "sourceName": "4k",
+      "baseUrl": "https://4k.4kyima.com",
+      "apiUrl": "https://4k.4kyima.com/api.php/provide/vod/at/xml",
+      "detailUrl": "",
+      "playListUrl": "",
+      "parserUrl": "",
+      "level": 1
+    },
+    {
+      "type": "",
+      "sourceName": "多多",
+      "baseUrl": "http://dd.rhiptv.com",
+      "apiUrl": "http://dd.rhiptv.com/api.php/provide/vod/at/xml",
+      "detailUrl": "",
+      "playListUrl": "",
+      "parserUrl": "",
+      "level": 1
+    },
+    {
+      "type": "",
+      "sourceName": "影派",
+      "baseUrl": "https://v.dtjos.com",
+      "apiUrl": "https://v.dtjos.com/api.php/provide/vod/at/xml",
+      "detailUrl": "",
+      "playListUrl": "",
+      "parserUrl": "",
+      "level": 1
+    },
+    {
+      "type": "",
+      "sourceName": "萝卜",
+      "baseUrl": "https://cj.lby.pet",
+      "apiUrl": "https://cj.lby.pet/api.php/provide/vod/at/xml",
+      "detailUrl": "",
+      "playListUrl": "",
+      "parserUrl": "",
+      "level": 1
+    },
+    {
+      "type": "",
+      "sourceName": "明日",
+      "baseUrl": "http://zy.zcocc.com",
+      "apiUrl": "http://zy.zcocc.com/api.php/provide/vod/at/xml",
+      "detailUrl": "",
+      "playListUrl": "",
+      "parserUrl": "",
+      "level": 1
+    },
+    {
+      "type": "",
+      "sourceName": "穿梭",
+      "baseUrl": "http://ok.888hyk.com",
+      "apiUrl": "http://ok.888hyk.com/api.php/provide/vod/at/xml",
+      "detailUrl": "",
+      "playListUrl": "",
+      "parserUrl": "",
+      "level": 1
+    },
+    {
+      "type": "",
+      "sourceName": "柚子",
+      "baseUrl": "http://tv.aitesucai.xyz",
+      "apiUrl": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml",
+      "detailUrl": "",
+      "playListUrl": "",
+      "parserUrl": "",
+      "level": 1
+    },
+    {
+      "type": "",
+      "sourceName": "十点",
+      "baseUrl": "http://shidian.vip",
+      "apiUrl": "http://shidian.vip/api.php/provide/vod/at/xml",
+      "detailUrl": "",
+      "playListUrl": "",
+      "parserUrl": "",
+      "level": 1
+    },
+    {
+      "type": "",
+      "sourceName": "安逸",
+      "baseUrl": "http://dy.51isu.com",
+      "apiUrl": "http://dy.51isu.com:11801/api.php/provide/vod/at/xml",
+      "detailUrl": "",
+      "playListUrl": "",
+      "parserUrl": "",
+      "level": 1
+    },
+    {
+      "type": "",
+      "sourceName": "ADC",
+      "baseUrl": "https://www.adcmove.com",
+      "apiUrl": "https://www.adcmove.com/api.php/provide/vod/at/xml",
+      "detailUrl": "",
+      "playListUrl": "",
+      "parserUrl": "",
+      "level": 1
+    },
+    {
+      "type": "",
+      "sourceName": "39",
+      "baseUrl": "https://www.39kan.com",
+      "apiUrl": "https://www.39kan.com/api.php/provide/vod/at/xml",
+      "detailUrl": "",
+      "playListUrl": "",
+      "parserUrl": "",
+      "level": 1
+    },
+    {
+      "type": "",
+      "sourceName": "209",
+      "baseUrl": "http://www.209zy.net",
+      "apiUrl": "http://www.209zy.net/inc/api.php",
+      "detailUrl": "",
+      "playListUrl": "",
+      "parserUrl": "",
+      "level": 1
+    },
+    {
+      "type": "",
+      "sourceName": "88",
+      "baseUrl": "http://www.88zyw.net",
+      "apiUrl": "http://www.88zyw.net/inc/api.php",
+      "detailUrl": "",
+      "playListUrl": "",
+      "parserUrl": "",
+      "level": 1
+    },
+    {
+      "type": "",
+      "sourceName": "新奇遇",
+      "baseUrl": "https://www.newqiyu.com",
+      "apiUrl": "https://www.newqiyu.com/api.php/provide/vod/at/xml",
+      "detailUrl": "",
+      "playListUrl": "",
+      "parserUrl": "",
+      "level": 1
+    },
+    {
+      "type": "",
+      "sourceName": "太初",
+      "baseUrl": "https://www.tcmove.com",
+      "apiUrl": "https://www.tcmove.com/api.php/provide/vod/at/xml",
+      "detailUrl": "",
+      "playListUrl": "",
+      "parserUrl": "",
+      "level": 1
+    },
+    {
+      "type": "",
+      "sourceName": "AWSLTV",
+      "baseUrl": "http://www.awsltv.com",
+      "apiUrl": "http://www.awsltv.com/api.php/provide/vod/at/xml",
+      "detailUrl": "",
+      "playListUrl": "",
+      "parserUrl": "",
+      "level": 1
+    },
+    {
+      "type": "",
+      "sourceName": "追剧吧",
+      "baseUrl": "http://www.huaxiab.com",
+      "apiUrl": "http://www.huaxiab.com/api.php/provide/vod/at/xml",
+      "detailUrl": "",
+      "playListUrl": "",
+      "parserUrl": "",
+      "level": 1
+    },
+    {
+      "type": "",
+      "sourceName": "聚宇",
+      "baseUrl": "https://zy.ajuyu.com",
+      "apiUrl": "https://zy.ajuyu.com/api.php/provide/vod/at/xml",
+      "detailUrl": "",
+      "playListUrl": "",
+      "parserUrl": "",
+      "level": 1
+    },
+    {
+      "type": "",
+      "sourceName": "好好",
+      "baseUrl": "http://haohaozy.com",
+      "apiUrl": "http://haohaozy.com/api.php/provide/vod/at/xml",
+      "detailUrl": "",
+      "playListUrl": "",
+      "parserUrl": "",
+      "level": 1
+    },
+    {
+      "type": "",
+      "sourceName": "萌果",
+      "baseUrl": "http://api.appearoo.top",
+      "apiUrl": "http://api.appearoo.top/api.php/provide/vod/at/xml",
+      "detailUrl": "",
+      "playListUrl": "",
+      "parserUrl": "",
+      "level": 1
+    },
+    {
+      "type": "",
+      "sourceName": "速搜",
+      "baseUrl": "http://www.susouzy.com",
+      "apiUrl": "http://www.susouzy.com/api.php/provide/vod/at/xml",
+      "detailUrl": "",
+      "playListUrl": "",
+      "parserUrl": "",
+      "level": 1
+    },
+    {
+      "type": "",
+      "sourceName": "52T",
+      "baseUrl": "http://52tj.xyz",
+      "apiUrl": "http://52tj.xyz/api.php/provide/vod/at/xml",
+      "detailUrl": "",
+      "playListUrl": "",
+      "parserUrl": "",
+      "level": 1
+    },
+    {
+      "type": "",
+      "sourceName": "蓝光影片",
+      "baseUrl": "https://api.languang.wfss100.com",
+      "apiUrl": "https://api.languang.wfss100.com/api.php/provide/vod/at/xml",
+      "detailUrl": "",
+      "playListUrl": "",
+      "parserUrl": "https://j.languang.wfss100.com/?url=",
+      "level": 1
+    },
+    {
+      "type": "",
+      "sourceName": "4v0r",
+      "baseUrl": "http://caiji1.4v0r.cn",
+      "apiUrl": "http://caiji1.4v0r.cn/api.php/provide/vod/at/xml",
+      "detailUrl": "",
+      "playListUrl": "",
+      "parserUrl": "",
+      "level": 1
+    },
+    {
+      "type": "",
+      "sourceName": "饭团",
+      "baseUrl": "http://fantuan.wkfile.com",
+      "apiUrl": "http://fantuan.wkfile.com/api.php/provide/vod/at/xml",
+      "detailUrl": "",
+      "playListUrl": "",
+      "parserUrl": "",
+      "level": 1
+    },
+    {
+      "type": "",
+      "sourceName": "橘猫",
+      "baseUrl": "http://www.zitv.cc",
+      "apiUrl": "http://www.zitv.cc/api.php/provide/vod/at/xml",
+      "detailUrl": "",
+      "playListUrl": "",
+      "parserUrl": "",
+      "level": 1
+    },
+    {
+      "type": "",
+      "sourceName": "全网",
+      "baseUrl": "https://www.qwysvip.com",
+      "apiUrl": "https://www.qwysvip.com/api.php/provide/vod/at/xml",
+      "detailUrl": "",
+      "playListUrl": "",
+      "parserUrl": "",
+      "level": 1
+    },
+    {
+      "type": "",
+      "sourceName": "最快资源",
+      "baseUrl": "http://cj.1886zy.co",
+      "apiUrl": "http://cj.1886zy.co/inc/seacmsapi.php",
+      "detailUrl": "",
+      "playListUrl": "",
+      "parserUrl": "",
+      "level": 1
+    }
+  ],
+  "parseUrl": [
+    "https://okjx.cc?url=",
+	"https://vip.qvod.us/?url=",
+	"https://jx.youyitv.com/?url=",
+	"https://jx.ppflv.com/?url=",
+    "https://jx.mw0.cc/?url=",
+    "http://pangujx.cc/?url=",
+    "http://api.baiyug.vip/index.php?url=",
+    "http://playx.top/?url=",
+    "https://jx.618g.com/?url=",
+    "http://play1.online/?url=",
+    "http://api.baiyug.vip/?url=",
+    "http://bofang.online/?url=",
+    "http://607p.com/?url=",
+    "http://jx.quanmingjiexi.com/?url=",
+    "https://www.qianyicp.com/jiexi/index.php?url=",
+    "https://www.xymav.com/?url=",
+    "https://www.1717yun.com/jx/ty.php?url=",
+    "https://plamgtvcache.ccyjjd.com/play.php?url="
+  ],
+  "ad": [
+    "mimg.0c1q0l.cn",
+    "www.googletagmanager.com",
+    "www.google-analytics.com",
+    "mc.usihnbcq.cn",
+    "mg.g1mm3d.cn",
+    "mscs.svaeuzh.cn",
+    "cnzz.hhttm.top",
+    "tp.vinuxhome.com",
+    "cnzz.mmstat.com",
+    "www.baihuillq.com",
+    ".cnzz.com",
+    "stj.v1vo.top",
+    "img.mosflower.cn",
+    "tips.gamevvip.com",
+    "ehwe.yhdtns.com",
+    "xdn.cqqc3.com",
+    "www.jixunkyy.cn",
+    "sp.chemacid.cn",
+    "hm.baidu.com",
+    "um.cavuc.com",
+    "mav.mavuz.com",
+    "wofwk.aoidf3.com",
+    "xc.hubeijieshikj.cn",
+    "tj.tianwenhu.com",
+    "xg.gars57.cn",
+    "k.jinxiuzhilv.com",
+    "cdn.bootcss.com",
+    "ppl.xunzhuo123.com",
+    "xomk.jiangjunmh.top",
+    "img.xunzhuo123.com",
+    "xg.huataisangao.cn",
+    "thy.dacedsfa.cn",
+    "xg.whsbpw.cn",
+    "f5w.as12df.top",
+    "ae01.alicdn.com",
+    "www.92424.cn",
+    "k.wudejia.com",
+    "vivovip.mmszxc.top",
+    "qiu.xixiqiu.com",
+    "cdnjs.hnfenxun.com",
+    "cms.qdwght.com",
+    ".sq88.press",
+    "mg.hxhhb120.cn",
+    "mg.miaolejieshui.cn",
+    "xc.cdhxhhb.cn",
+    "xg.cdhhbyy.cn",
+    "k.13hangpifa.com",
+    "thefatherofsalmon.com",
+    ".51.la",
+    ".jiubojx.com",
+    "www.bmbaike.cn",
+    "cdnjs.xmlanshu.com",
+    "cdn0.sxhjty.cn",
+    "an5.uyueread.com",
+    "img.sdzqx7d.cn",
+    "m.yqqlm.vip",
+    "wap.xwkchcl.top",
+    "pv.sohu.com",
+    "www.q4ee.top",
+    "cdn.wmnvhai.com",
+    "api.zhongwenqing.com",
+    "kxv.kxvuv.com",
+    "hm.baidu.com"
+  ],
+  "address": [
+    {
+      "name": "爱奇艺",
+      "url": "https://m.iqiyi.com/"
+    },
+    {
+      "name": "腾讯视频",
+      "url": "https://m.v.qq.com/"
+    },
+    {
+      "name": "芒果TV",
+      "url": "https://m.mgtv.com/"
+    },
+    {
+      "name": "优酷视频",
+      "url": "https://www.youku.com/"
+    },
+    {
+      "name": "搜狐视频",
+      "url": "https://m.tv.sohu.com/"
+    },
+    {
+      "name": "B站视频",
+      "url": "https://m.bilibili.com/"
+    },
+    {
+      "name": "乐视视频",
+      "url": "https://m.le.com/"
+    },
+    {
+      "name": "1905视频",
+      "url": "https://m.1905.com/"
+    },
+    {
+      "name": "PPTV视频",
+      "url": "https://m.pptv.com/"
+    }
+  ],
+  "openAd": false,
+  "hint": "",
+  "about": "本软件所有资源来自网上，不参与任何制作、上传、下载、存储等内容，不能作为商业软件使用，请于安装后24小时内删除。",
+  "hintVersion": 0
+}
