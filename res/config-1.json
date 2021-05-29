@@ -1,0 +1,24 @@
+{
+    "hot_filters": [],
+    "home_hot_filters": [],
+    "sex_filters": [],
+    "jx_filters": [],
+    "jx_delays": [],
+    "bde4_urls": [],
+    "piracy_hint": "",
+    "wxqr": "",
+    "zfbqr": "",
+    "sha1": "68:57:EE:21:0F:8B:4D:12:C8:B7:ED:3E:E6:71:C2:7F:CD:A8:6E:08",
+    "msg": {
+        "title": "",
+        "text": "",
+        "isFinish": false,
+        "isShouldCancel": true,
+        "version": "",
+        "mode": 0
+    },
+    "splashAdCount": 0,
+    "splashAdDelayMillis": 0,
+    "cookieUrls": [],
+    "blacklist": []
+}
