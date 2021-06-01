@@ -9,7 +9,7 @@ HBfl":" {
 "搜索接口5":"http://api.xmm3.cn/api/1/sou.php",
 "搜索接口6":"http://api.xmm3.cn/api/11/sou.php",
 "搜索接口7":"http://api.xmm3.cn/api/7/sou.php",
-"搜索接口8":"http://api.xmm3.cn/api/4/sou.php",
+"搜索接口8":"http://api.xmm3.cn/api/2/sou.php",
 "分享次数":"0",
 "启动时间":"4"
 }"
