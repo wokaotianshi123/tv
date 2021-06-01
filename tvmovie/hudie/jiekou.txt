@@ -1,4 +1,4 @@
-<ds资源>http://api.xmm3.cn/api/1/list.php</ds资源>
+<ds资源>http://api.boluo01.com/api/xrk/list.php</ds资源>
 ﻿<向日葵>http://api.xmm3.cn/api/1/list.php</向日葵>
 <芭乐>http://api.boluo01.com/api/xrk/list.php</芭乐>
 <三百MM>http://api.xmm3.cn/api/11/list.php</三百MM>
