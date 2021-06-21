@@ -56,7 +56,7 @@
 
 《直播接口》http://api.hclyz.com:81/mf/《直播接口》
 
-《首页接口》http://vip.xmm3.cn/api2/6/sou.php《首页接口》http://ccccccxxx.45sp.cc/cm/cmtv.php
+《首页接口》http://vip.xmm3.cn/api2/6/list.php《首页接口》http://ccccccxxx.45sp.cc/cm/cmtv.php
 
 《搜索接口》http://vip.xmm3.cn/api2/14/sou.php《搜索接口》向日葵接口：http://vip.xmm3.cn/api2/1/sou.php
 
