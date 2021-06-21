@@ -42,7 +42,7 @@ HBfl":" {
 "搜索接口6":"http://vip.xmm3.cn/api2/6/list.php",
 "搜索接口7":"http://vip.xmm3.cn/api2/12/list.php",
 "搜索接口8":"http://vip.xmm3.cn/api2/4/list.php",
-"热播接口":"http://jhssxx.cn/api/8/sou.php",
+"热播接口":"http://778.45sp.cc/sg/list.php",
 
 "向日葵":"http://vip.xmm3.cn/api2/10/list.php",
 "三百迷妹":"http://vip.xmm3.cn/api2/11/list.php",
