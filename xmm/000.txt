@@ -31,7 +31,7 @@ url[http://8ar2.vip]
 7失效  8 待用
 HBfl":" {
 "直播地址":"http://api.hclyz.com:81/mf/",
-"搜索内容":"http://vip.xmm3.cn/api2/6/list.php",
+"搜索内容":"http://778.45sp.cc/bl/list.php",
 "搜索标签":"向日葵-三百迷妹-芭乐视频-屁屁搜索-酷牛搜索-爱宝贝-小草搜索-猫咪搜索",
 
 "搜索接口1":"http://jhssxx.cn/api/12/sou.php",
