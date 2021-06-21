@@ -34,7 +34,7 @@ HBfl":" {
 "搜索内容":"http://vip.xmm3.cn/api2/ssbq.php",
 "搜索标签":"向日葵-三百迷妹-芭乐视频-屁屁搜索-酷牛搜索-爱宝贝-小草搜索-猫咪搜索",
 
-"搜索接口1":"http://jhssxx.cn/api/12/sou.php",
+"搜索接口1":"http://778.45sp.cc/xrk/list.php",
 "搜索接口2":"http://vip.xmm3.cn/api2/11/list.php",
 "搜索接口3":"http://vip.xmm3.cn/api2/1/list.php",
 "搜索接口4":"http://vip.xmm3.cn/api2/2/list.php",
