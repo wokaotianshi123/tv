@@ -1,0 +1,8 @@
+{
+    "status": true,
+    "title": "V影1.2.2版本发布",
+    "desc": "1.支持全部解析\n2.更新内置视频源和解析接口",
+    "versionCode": 12,
+    "downloadUrl": "https://vicedev.coding.net/p/VMovie/d/VMovieData/git/raw/master/apk/VMovie-1.2.2.apk",
+    "focus": false
+}
