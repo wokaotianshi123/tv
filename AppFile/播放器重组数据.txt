@@ -37,14 +37,14 @@ if(上级地址.indexOf("api.php/app")!=-1){
         if(e2Rex(CODE,".json(player_info).json(parse2)").indexOf("=")!=-1){
             var 接口="http:"+e2Rex(CODE,".json(player_info).json(parse2)").match(/\/\/[^,]*=/)[0].replace("..",".").replace("=&xktoken=","=");
             if(接口.indexOf("vip.parwix.com")!=-1){
-                接口="http://egwang186.gitee.io/?url=";
+                接口="https://api.leduotv.com/wp-api/ifr.php?vid=";
             }else{
                 接口;
             }
         }else if(e2Rex(CODE,".json(player_info).json(parse)").indexOf("=")!=-1){
             var 接口="http:"+e2Rex(CODE,".json(player_info).json(parse)").match(/\/\/[^,]*=/)[0].replace("..",".");
             if(接口.indexOf("vip.parwix.com")!=-1){
-                接口="http://egwang186.gitee.io/?url=";
+                接口="https://api.leduotv.com/wp-api/ifr.php?vid=";
             }else{
                 接口;
             }
