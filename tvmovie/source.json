@@ -1012,6 +1012,7 @@
       "parseUrl": "http://dmjx.m3u8.tv/?url=",
       "click": true
     }
+  ]
   "searchApi": [
     {
       "type": "sogou",
