@@ -1005,12 +1005,7 @@
     }
   ],
   "prase": [
-    {
-      "id": 1,
-      "parseName": "主线路",
-      "parseUrl": "http://dmjx.m3u8.tv/?url=",
-      "click": true
-    },
+ 
     {
       "id": 2,
       "parseName": "主线路",
