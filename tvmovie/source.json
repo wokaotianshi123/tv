@@ -1011,6 +1011,30 @@
       "parseName": "主线路",
       "parseUrl": "http://dmjx.m3u8.tv/?url=",
       "click": true
+    },
+     {
+      "id": 5,
+      "parseName": "线路3",
+      "parseUrl": "https://blog-8d56.pages.dev?url=",
+      "click": true
+    },
+    {
+      "id": 2,
+      "parseName": "线路1",
+      "parseUrl": "http://api.baiyug.vip/index.php?url=",
+      "click": true
+    },
+    {
+      "id": 3,
+      "parseName": "线路2",
+      "parseUrl": "https://www.playm3u8.cn/jiexi.php?url=",
+      "click": true
+    },
+    {
+      "id": 4,
+      "parseName": "线路3",
+      "parseUrl": "https://www.ckmov.vip/api.php?url=",
+      "click": true
     }
   ],
   "searchApi": [
