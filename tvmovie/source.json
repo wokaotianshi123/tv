@@ -1012,12 +1012,6 @@
       "parseUrl": "http://dmjx.m3u8.tv/?url=",
       "click": true
     },
-     {
-      "id": 5,
-      "parseName": "线路3",
-      "parseUrl": "https://blog-8d56.pages.dev?url=",
-      "click": true
-    },
     {
       "id": 2,
       "parseName": "线路1",
@@ -1034,6 +1028,12 @@
       "id": 4,
       "parseName": "线路3",
       "parseUrl": "https://www.ckmov.vip/api.php?url=",
+      "click": true
+    },
+    {
+      "id": 5,
+      "parseName": "线路3",
+      "parseUrl": "https://blog-8d56.pages.dev?url=",
       "click": true
     }
   ],
