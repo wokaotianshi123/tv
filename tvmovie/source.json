@@ -1009,7 +1009,7 @@
     {
       "id": 1,
       "parseName": "主线路",
-      "parseUrl": "",
+      "parseUrl": "http://dmjx.m3u8.tv/?url=",
       "click": true
     }
   ],
