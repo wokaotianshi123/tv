@@ -1,11 +1,11 @@
 {
 "update":[
     {
-    "title":"有新版本，请点击下方按钮更新",
+    "title":"有新版本，请点击更新",
     "new":"20210808",
     "list":[
         {
-        "title":"安装新版",
+        "title":"已经是最新版了",
         "murl":"mapi:qm/https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/InMemory/APP影视.mqz",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/update.png"
         }
