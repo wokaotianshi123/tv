@@ -18,7 +18,7 @@
           {
             "type": 1,
             "title": "热播推荐",
-            "movieList": "class.sort_lst.0@tag.li",
+            "movieList": "class.sort_lst_tit.0@tag.li",
             "movieTitle": "tag.img.0@alt",
             "movieUrl": "tag.a.0@href",
             "movieCover": "tag.img.0@data-src"
@@ -26,7 +26,7 @@
           {
             "type": 1,
             "title": "猜你喜欢",
-            "movieList": "class.sort_lst.1@tag.li",
+            "movieList": "class.sort_lst_tit.1@tag.li",
             "movieTitle": "tag.img.0@alt",
             "movieUrl": "tag.a.0@href",
             "movieCover": "tag.img.0@data-src"
@@ -34,7 +34,7 @@
           {
             "type": 1,
             "title": "经典佳片",
-           "movieList": "class.sort_lst.2@tag.li",
+           "movieList": "class.sort_lst_tit.2@tag.li",
             "movieTitle": "tag.img.0@alt",
             "movieUrl": "tag.a.0@href",
             "movieCover": "tag.img.0@data-src"
@@ -42,7 +42,7 @@
 		   {
             "type": 1,
             "title": "轻松剧场",
-           "movieList": "class.sort_lst.3@tag.li",
+           "movieList": "class.sort_lst_tit.3@tag.li",
             "movieTitle": "tag.img.0@alt",
             "movieUrl": "tag.a.0@href",
             "movieCover": "tag.img.0@data-src"
@@ -50,7 +50,7 @@
           {
             "type": 1,
             "title": "精彩剧场",
-            "movieList": "class.sort_lst.4@tag.li",
+            "movieList": "class.sort_lst_tit.4@tag.li",
             "movieTitle": "tag.img.0@alt",
             "movieUrl": "tag.a.0@href",
             "movieCover": "tag.img.0@data-src"
