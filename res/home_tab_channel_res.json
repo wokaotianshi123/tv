@@ -18,7 +18,7 @@
           {
             "type": 1,
             "title": "热播推荐",
-            "movieList": "class.sort_lst.0@tag.li",
+            "movieList": "class.sort_lst@tag.li",
             "movieTitle": "tag.img.0@alt",
             "movieUrl": "tag.a.0@href",
             "movieCover": "tag.img.0@data-src"
