@@ -38,6 +38,12 @@
       "api": "Scrawl2",
       "playUrl": ""
     },
+    { "key": "ysgc_spider", 
+     "name": "影视工厂", 
+     "type": 2, 
+     "api": "Scrawl4",
+      "playUrl": "" 
+    }, 
     {
       "key": "mgys_spider",
       "name": "暮光影视",
