@@ -2,8 +2,8 @@
 "update":[
     {
     "title":"有新版本，请点击更新",
-    "new":"202108300",
-    "list":[
+    "new":"202109010",
+    "list
         {
         "title":"已经是最新版了",
         "murl":"mapi:qm/https://tianshiaiaiai.coding.net/p/tvmovie/d/tv/git/raw/master/mbrowser/sou.mqz",
