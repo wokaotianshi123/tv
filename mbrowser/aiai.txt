@@ -27,6 +27,7 @@
 		]
 }
 ######重组1
+js=var code=getCode();
 var list=[];
 var lb=e2Arr(code,".get(div.tab-pane)");
 var bt=e2Arr(code,".get(ul.nav).i(0).get(a)");
@@ -34,6 +35,7 @@ for(var i=0;i<lb.length;i++){
 var 列表=bt[i]+lb[i];
 list.push(列表);
 }
+JSON.stringify(list);
 ######重组2 
 var list=[];
 var lb=e2Arr(code,".get(div.stui-pannel-box.b)");
