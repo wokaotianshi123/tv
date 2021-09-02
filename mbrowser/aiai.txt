@@ -13,8 +13,14 @@
         {
         "title":"片单",
         "url":"",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/293影院.png",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/V影视.png",
         "murl":"q:片单1"
+        },
+        {
+        "title":"好看视频",
+        "url":"",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/293影院.png",
+        "murl":"q:好看视频"
         }
 		]
 		}
