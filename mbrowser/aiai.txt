@@ -26,7 +26,7 @@
 		}
 		]
 }
-######重组1
+######重组
 var list=[];
 var lb=e2Arr(code,".get(div.tab-pane)");
 var bt=e2Arr(code,".get(ul.nav).i(0).get(a)");
