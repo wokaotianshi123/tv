@@ -112,3 +112,14 @@ var uu="https://frodo.douban.com/api/v2/movie/recommend_tag?tag="+net+"&type=tag
 uu;
 };
 };
+######重组4
+var code=getCode();
+var list=[];
+var mz=e2Rex(code,".get(#NumTab)");
+mz = mz.match(/<a.*>.*<\/a>/g);
+var jc=e2Rex(code,".get(.content_playlist.list_scroll.clearfix).it()");
+jc = jc.match(/<ul.*>[\s\S]*?<\/ul>/g);
+for(var i=0;i<mz.length;i++){
+list.push(mz[i]+"###"+jc[i])
+}
+JSON.stringify(list);
