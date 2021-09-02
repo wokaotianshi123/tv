@@ -123,3 +123,13 @@ for(var i=0;i<mz.length;i++){
 list.push(mz[i]+"###"+jc[i])
 }
 JSON.stringify(list);
+######重组5
+var code=getCode();
+var list=[];
+var lb=e2Arr(code,".get(div.fed-play-item.fed-drop-item)");
+var bt=e2Arr(code,".get(ul.fed-part-rows).i(5).get(li > a)");
+for(var i=0;i<lb.length;i++){
+var 列表=bt[i]+lb[i];
+list.push(列表);
+}
+JSON.stringify(list);
