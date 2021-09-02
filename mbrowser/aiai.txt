@@ -6,15 +6,15 @@
     "list":[
         {
         "title":"分类",
-        "url":"http://ysiptv.19jx.vip/api.php/iptv/vod/",
+        "url":"",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/19影视.png",
-        "murl":"q:TV影视"
+        "murl":"q:分类"
         },
         {
         "title":"片单",
-        "url":"http://db.293ys.top:81/api.php/iptv/vod/",
+        "url":"",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/293影院.png",
-        "murl":"q:TV影视"
+        "murl":"q:片单1"
         }
 		]
 		}
