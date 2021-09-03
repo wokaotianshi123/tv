@@ -21,6 +21,12 @@
         "url":"",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/293影院.png",
         "murl":"q:好看视频"
+        },
+        {
+        "title":"小姐姐",
+        "url":"",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/臻彩视界.png",
+        "murl":"q:小姐姐"
         }
 		]
 		}
@@ -170,3 +176,16 @@ var 列表=btarr[i]+lbarr[i];
 list.push(列表);
 }
 JSON.stringify(list);
+######小姐姐
+小姐姐1@@https://tvv.tw/xjj/get$
+小姐姐2@@https://mm.diskgirl.com/pc.html$
+小姐姐3@@https://v.nrzj.vip/$
+小姐姐4@@https://xjj.349457.xyz/$
+小姐姐5@@http://www.kuaidoushe.com/$
+小姐姐6@@http://mm.jbus.net/index.html$
+小姐姐7@@http://dou.plus/index.html$
+小姐姐8@@http://xjj.nbtd.vip/index.html$
+小姐姐9@@https://www.xlzyw.com/xjj/ks/$
+小姐姐10@@https://tvv.tw/xjj/kuaishou/$
+小姐姐11@@https://xjiejie.vip$
+小姐姐12@@https://imeizi.me/mvideo/$
