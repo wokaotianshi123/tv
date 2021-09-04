@@ -31,8 +31,8 @@
         {
         "title":"搜索",
         "url":"",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/大师兄影视.png",
-        "murl":"q:小姐姐"
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/小极TV.png",
+        "murl":"q:搜索面板"
         }
 		]
 		}
