@@ -32,7 +32,7 @@
         "title":"搜索",
         "url":"",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/小极TV.png",
-        "murl":"q:搜索面板"
+        "murl":"q:聚合搜索2"
         }
 		]
 		}
