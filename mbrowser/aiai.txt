@@ -170,7 +170,7 @@ vlog=yunying_vlog
 var code=getCode();
 var list=[];
 var btarr=e2Arr(code,".z(<h2>.*?</h2>)");
-var lbarr=e2Arr(code,".get(ul.stui-content__playlist.clearfix)");
+var lbarr=e2Arr(code,".get(ul.stui-content__playlist.clearfix).or().get(ul.content__playlist.clearfix)");
 for(var i=0;i<btarr.length;i++){
 var 列表=btarr[i]+lbarr[i];
 list.push(列表);
