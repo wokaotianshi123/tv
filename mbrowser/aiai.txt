@@ -188,4 +188,14 @@ JSON.stringify(list);
 小姐姐9@@https://www.xlzyw.com/xjj/ks/$
 小姐姐10@@https://tvv.tw/xjj/kuaishou/$
 小姐姐11@@https://xjiejie.vip$
-小姐姐12@@https://imeizi.me/mvideo/$
+小姐姐12@@https://imeizi.me/mvideo/
+######重组7
+var code=getCode();
+var list=[];
+var btarr=e2Arr(code,".z(<h2>.*?</h2>).i(2,0)");
+var lbarr=e2Arr(code,".get(ul.content_playlist.clearfix)");
+for(var i=0;i<btarr.length;i++){
+var 列表=btarr[i]+lbarr[i];
+list.push(列表);
+}
+JSON.stringify(list);
