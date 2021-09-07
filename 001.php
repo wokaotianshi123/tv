@@ -4,7 +4,7 @@ HBbb":"1.0.2"
 
 HBxz":"http://laosep.vip"
 
-《QQ群》663879096《QQ群》
+《QQ群》《QQ群》
 
 
 HBnr":" 新版本软件下载地址
