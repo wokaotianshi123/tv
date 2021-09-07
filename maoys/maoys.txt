@@ -1,4 +1,3 @@
-################config begin################ <-- remove this line
 {
   "sites": [
     {
@@ -1351,4 +1350,3 @@
     "cms.qdwght.com"
   ]
 }
-################config end################ <-- remove this line
