@@ -25,33 +25,6 @@
       ]
     },
     {
-      "key": "afys_spider",
-      "name": "阿房影视",
-      "type": 2,
-      "api": "Scrawl1",
-      "playUrl": ""
-    },
-    {
-      "key": "jpys_spider",
-      "name": "极品影视",
-      "type": 2,
-      "api": "Scrawl2",
-      "playUrl": ""
-    },
-    { "key": "ysgc_spider", 
-     "name": "影视工厂", 
-     "type": 2, 
-     "api": "Scrawl4",
-      "playUrl": "" 
-    }, 
-    {
-      "key": "mgys_spider",
-      "name": "暮光影视",
-      "type": 2,
-      "api": "Scrawl3",
-      "playUrl": ""
-    },
-    {
       "key": "柚子资源",
       "name": "柚子资源",
       "type": 0,
