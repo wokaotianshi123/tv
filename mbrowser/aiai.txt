@@ -183,18 +183,18 @@ list.push(列表);
 }
 JSON.stringify(list);
 ######小姐姐
-https://tvv.tw/$xjj/get
-https://mm.diskgirl.com/$pc.html
-https://v.nrzj.vip/$
-https://xjj.349457.xyz/$
-http://www.kuaidoushe.com/$
-http://mm.jbus.net/$index.html
-http://dou.plus/$index.html
-http://xjj.nbtd.vip/$index.html
-https://www.xlzyw.com/$xjj/ks/
-https://tvv.tw/xjj/$kuaishou/
-https://xjiejie.vip$
-https://imeizi.me/$mvideo/
+https://tvv.tw/$xjj/get@
+https://mm.diskgirl.com/$pc.html@
+https://v.nrzj.vip/$@
+https://xjj.349457.xyz/$@
+http://www.kuaidoushe.com/$@
+http://mm.jbus.net/$index.html@
+http://dou.plus/$index.html@
+http://xjj.nbtd.vip/$index.html@
+https://www.xlzyw.com/$xjj/ks/@
+https://tvv.tw/xjj/$kuaishou/@
+https://xjiejie.vip$@
+https://imeizi.me/$mvideo/@
 ######重组7
 var code=getCode();
 var list=[];
