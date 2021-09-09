@@ -32,7 +32,7 @@
         "title":"直播",
         "url":"",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/畅视影视.png",
-        "murl":"q:小姐姐"
+        "murl":"q:直播首页"
         }
 		]
 		}
