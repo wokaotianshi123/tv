@@ -194,7 +194,7 @@ http://xjj.nbtd.vip/$index.html@
 https://www.xlzyw.com/$xjj/ks/@
 https://tvv.tw/xjj/$kuaishou/@
 https://xjiejie.vip$@
-https://imeizi.me/$mvideo/@
+https://imeizi.me/$mvideo/
 ######重组7
 var code=getCode();
 var list=[];
