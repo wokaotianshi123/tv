@@ -233,7 +233,7 @@ https://assets.codehub.cn/static/favicon.ico$q:直播源
 旅游=biz=red&subBiz=lvyou&moduleId=560&pageSize=60
 搭讪=biz=red&subBiz=dashan&moduleId=556&pageSize=60
 户外=biz=red&subBiz=idx&moduleId=1872&pageSize=60
-美食=biz=meishi&subBiz=idx&moduleId=1656&pageSize=60
+美食=biz=red&subBiz=meishi&moduleId=1656&pageSize=60
 喊麦=biz=mc&subBiz=idx&moduleId=322&pageSize=60
 二次元=biz=car&subBiz=idx&moduleId=1877&pageSize=60
 王者荣耀=biz=game&subBiz=idx&moduleId=1180&pageSize=60
