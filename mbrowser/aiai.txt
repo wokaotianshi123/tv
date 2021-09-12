@@ -229,7 +229,7 @@ https://assets.codehub.cn/static/favicon.ico$q:直播源
 {
   "categoryTabs": [
     {
-      "naves": [
+      "navs": [
         {
           "title": "音乐",
 		  "biz": "sing",
