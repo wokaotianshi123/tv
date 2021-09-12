@@ -366,7 +366,7 @@ https://assets.codehub.cn/static/favicon.ico$q:直播源
 		  "subBiz": "zonghe",
 		  "module":"3643",
           "url": "http://www.yy.com/chicken/lol"
-        },
+        }
       ],
       "id": 3,
       "priority": 0,
