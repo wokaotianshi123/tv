@@ -226,153 +226,19 @@ $q:好电视
 https://libs.baidu.com/jquerymobile/1.3.0/images/ajax-loader.gif$q:電視直播
 https://assets.codehub.cn/static/favicon.ico$q:直播源
 ######YY
-{
-  "categoryTabs": [
-    {
-      "navs": [
-        {
-          "title": "音乐",
-		  "biz": "sing",
-		  "subBiz": "idx",
-		  "module":"308",
-          "url": "http://www.yy.com/music/"
-        },
-		 {
-          "title": "颜值",
-		  "biz": "pretty",
-		  "subBiz": "idx",
-		  "module":"449237",
-          "url": "http://www.yy.com/pretty/"
-        },
-		{
-          "title": "脱口秀",
-		  "biz": "talk",
-		  "subBiz": "idx",
-		  "module":"328",
-          "url": "http://www.yy.com/show/"
-        },
-		{
-          "title": "旅游",
-		  "biz": "lvyou",
-		  "subBiz": "idx",
-		  "module":"560",
-          "url": "http://www.yy.com/travel/lvyou"
-        },
-		{
-          "title": "搭讪",
-		  "biz": "dashan",
-		  "subBiz": "idx",  
-		  "module":"556",
-          "url": "http://www.yy.com/travel/dashan"
-        },
-		{
-          "title": "户外",
-		  "biz": "red",
-		  "subBiz": "idx",
-		  "module":"1872",
-          "url": "http://www.yy.com/travel"
-        },
-		{
-          "title": "美食",
-		  "biz": "meishi",
-		  "subBiz": "idx",
-		  "module":"1656",
-          "url": "http://www.yy.com/travel/meishi"
-        },
-		{
-          "title": "舞蹈",
-		  "biz": "meishi",
-		  "subBiz": "idx",
-		  "module":"1656",
-          "url": "http://www.yy.com/dancing"
-        },
-		{
-          "title": "喊麦",
-		  "biz": "mc",
-		  "subBiz": "idx",
-		  "module":"322",
-          "url": "http://www.yy.com/mc/"
-        },
-		{
-          "title": "体育",
-		  "biz": "sport",
-		  "subBiz": "idx",
-		  "module":"434779",
-          "url": "http://www.yy.com/sport/"
-        },
-        {
-          "title": "二次元",
-		  "biz": "car",
-		  "subBiz": "idx",
-		  "module":"1877",
-          "url": "http://www.yy.com/acg/"
-        }
-      ],
-      "id": 1,
-      "priority": 0,
-      "title": "娱乐",
-      "parentId": 0,
-      "url": "http://www.yy.com/catalog/ent"
-    },
-    {
-      "navs": [
-        {
-          "title": "王者荣耀",
-		  "biz": "game",
-		  "subBiz": "idx",
-		  "module":"1180",
-          "url": "http://www.yy.com/game/"
-        },
-        {
-          "title": "绝地求生",
-		  "biz": "chicken",
-		  "subBiz": "jdqs",
-		  "module":"1473",
-          "url": "http://www.yy.com/chicken/jdqs"
-        },
-		{
-          "title": "和平精英",
-		  "biz": "chicken",
-		  "subBiz": "cjzc",
-		  "module":"1776",
-          "url": "http://www.yy.com/chicken/cjzc"
-        },
-        {
-          "title": "英雄联盟",
-		  "biz": "chicken",
-		  "subBiz": "lol",
-		  "module":"449351",
-          "url": "http://www.yy.com/chicken/lol"
-        },
-        {
-          "title": "综合游戏",
-		  "biz": "chicken",
-		  "subBiz": "djry",
-		  "module":"3687",
-          "url": "http://www.yy.com/djry"
-        }
-      ],
-      "id": 2,
-      "priority": 0,
-      "title": "游戏",
-      "parentId": 0,
-      "url": "http://www.yy.com/catalog/game"
-    },
-    {
-      "navs": [
-       {
-          "title": "综合",
-		  "biz": "other",
-		  "subBiz": "zonghe",
-		  "module":"3643",
-          "url": "http://www.yy.com/chicken/lol"
-        }
-      ],
-      "id": 3,
-      "priority": 0,
-      "title": "其他",
-      "parentId": 0,
-      "url": "http://www.yy.com/catalog/other"
-    }
-  ]
-}
+舞蹈=dance&subBiz=idx&page=#PN#&moduleId=313&pageSize=24
+音乐=sing&subBiz=idx&page=#PN#&moduleId=308&pageSize=24
+颜值=pretty&subBiz=idx&page=#PN#&moduleId=449237&pageSize=24
+脱口秀=talk&subBiz=idx&page=#PN#&moduleId=328&pageSize=24
+旅游=lvyou&subBiz=idx&page=#PN#&moduleId=560&pageSize=24
+搭讪=danshan&subBiz=idx&page=#PN#&moduleId=556&pageSize=24
+户外=red&subBiz=idx&page=#PN#&moduleId=1872&pageSize=24
+美食=meishi&subBiz=idx&page=#PN#&moduleId=1656&pageSize=24
+喊麦=mc&subBiz=idx&page=#PN#&moduleId=322&pageSize=24
+二次元=car&subBiz=idx&page=#PN#&moduleId=1877&pageSize=24
+王者荣耀=game&subBiz=idx&page=#PN#&moduleId=1180&pageSize=24
+绝地求生=jdqs&subBiz=chicken&page=#PN#&moduleId=1473&pageSize=24
+和平精英=cjzc&subBiz=chicken&page=#PN#&moduleId=1776&pageSize=24
+英雄联盟=lol&subBiz=chicken&page=#PN#&moduleId=449351&pageSize=24
+综合游戏=djry&subBiz=chicken&page=#PN#&moduleId=3687&pageSize=24
+其他=other&subBiz=zonghe&page=#PN#&moduleId=3643&pageSize=24
