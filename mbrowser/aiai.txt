@@ -225,3 +225,291 @@ https://www.chaojidianshi.net/favicon.ico$q:牛视网
 $q:好电视
 https://libs.baidu.com/jquerymobile/1.3.0/images/ajax-loader.gif$q:電視直播
 https://assets.codehub.cn/static/favicon.ico$q:直播源
+######YY
+{
+  "categoryTabs": [
+    {
+      "naves": [
+        {
+          "title": "音乐",
+		  "biz": "sing",
+		  "subBiz": "idx",
+		  "sort": [
+		  {
+		  "type": "全部",
+		  "module":"308"},
+		    {
+		  "type": "流行风尚",
+		  "module":"4231"},  
+		  {
+		  "type": "名俗风情",
+		  "module":"4232"},  
+		  {
+		  "type": "人间理想",
+		  "module":"4233"}, 
+		  {
+		  "type": "新星上架",
+		  "module":"4234"},  
+		  {
+		  "type": "高颜值",
+		  "module":"448292"}
+		  ],
+          "url": "http://www.yy.com/music/"
+        },
+		   {
+          "title": "颜值",
+		  "biz": "pretty",
+		  "subBiz": "idx",
+		  "sort": [
+		  {
+		  "type": "神仙颜值",
+		  "module":"449237"},
+		    {
+		  "type": "少女待撩",
+		  "module":"449282"},  
+		  {
+		  "type": "御姐含羞",
+		  "module":"449283"},  
+		  {
+		  "type": "有颜有艺",
+		  "module":"449189"}, 
+		  {
+		  "type": "高颜待撩",
+		  "module":"449192"},  
+		  {
+		  "type": "猜你喜欢",
+		  "module":"449193"}
+		  ],
+          "url": "http://www.yy.com/pretty/"
+        },
+		{
+          "title": "脱口秀",
+		  "biz": "talk",
+		  "subBiz": "idx",
+		  "sort": [
+		  {
+		  "type": "脱口秀直播",
+		  "module":"328"}
+		  ],
+          "url": "http://www.yy.com/show/"
+        },
+		{
+          "title": "旅游",
+		  "biz": "lvyou",
+		  "subBiz": "idx",
+		  "sort": [
+		  {
+		  "type": "旅游",
+		  "module":"560"}
+		  ],
+          "url": "http://www.yy.com/travel/lvyou"
+        },
+		{
+          "title": "搭讪",
+		  "biz": "dashan",
+		  "subBiz": "idx",
+		  "sort": [
+		  {
+		  "type": "户玩",
+		  "module":"556"}
+		  ],
+          "url": "http://www.yy.com/travel/dashan"
+        },
+		{
+          "title": "户外",
+		  "biz": "red",
+		  "subBiz": "idx",
+		  "sort": [
+		  {
+		  "type": "户外",
+		  "module":"1872"}
+		  ],
+          "url": "http://www.yy.com/travel"
+        },
+		{
+          "title": "美食",
+		  "biz": "meishi",
+		  "subBiz": "idx",
+		  "sort": [
+		  {
+		  "type": "美食",
+		  "module":"1656"}
+		  ],
+          "url": "http://www.yy.com/travel/meishi"
+        },
+		{
+          "title": "舞蹈",
+		  "biz": "meishi",
+		  "subBiz": "idx",
+		  "sort": [
+		  {
+		  "type": "舞蹈",
+		  "module":"1656"}
+		  ],
+          "url": "http://www.yy.com/dancing"
+        },
+		{
+          "title": "喊麦",
+		  "biz": "mc",
+		  "subBiz": "idx",
+		  "sort": [
+		  {
+		  "type": "喊麦",
+		  "module":"322"}
+		  ],
+          "url": "http://www.yy.com/mc/"
+        },
+		{
+          "title": "体育",
+		  "biz": "sport",
+		  "subBiz": "idx",
+		  "sort": [
+		  {
+		  "type": "人气主播",
+		  "module":"3603"},
+		    {
+		  "type": "最热主播",
+		  "module":"3613"},  
+		  {
+		  "type": "精彩推荐",
+		  "module":"434779"}
+		  ],
+          "url": "http://www.yy.com/sport/"
+        },
+        {
+          "title": "二次元",
+		  "biz": "car",
+		  "subBiz": "idx",
+		  "sort": [
+		  {
+		  "type": "全部",
+		  "module":"1877"},
+		    {
+		  "type": "有声漫画",
+		  "module":"1878"},  
+		  {
+		  "type": "情感电台",
+		  "module":"1879"},  
+		  {
+		  "type": "萌帅唱见",
+		  "module":"3820"}
+		  ],
+          "url": "http://www.yy.com/acg/"
+        }
+      ],
+      "id": 1,
+      "priority": 0,
+      "title": "娱乐",
+      "parentId": 0,
+      "url": "http://www.yy.com/catalog/ent"
+    },
+    {
+      "navs": [
+        {
+          "title": "王者荣耀",
+		  "biz": "game",
+		  "subBiz": "idx",
+		  "sort": [
+		  {
+		  "type": "正在直播",
+		  "module":"1180"},
+		    {
+		  "type": "国服大神",
+		  "module":"1911"}
+		  ],
+          "url": "http://www.yy.com/game/"
+        },
+        {
+          "title": "绝地求生",
+		  "biz": "chicken",
+		  "subBiz": "jdqs",
+		 "sort": [
+		  {
+		  "type": "所有直播",
+		  "module":"1473"},
+		  {
+		  "type": "高玩地带",
+		  "module":"1708"},
+		    {
+		  "type": "决赛时刻",
+		  "module":"1571"}
+		  ],
+          "url": "http://www.yy.com/chicken/jdqs"
+        },
+		{
+          "title": "和平精英",
+		  "biz": "chicken",
+		  "subBiz": "cjzc",
+		  "sort": [
+		  {
+		  "type": "正在直播",
+		  "module":"1776"}
+		  ],
+          "url": "http://www.yy.com/chicken/cjzc"
+        },
+        {
+          "title": "英雄联盟",
+		  "biz": "chicken",
+		  "subBiz": "lol",
+		  "sort": [
+		  {
+		  "type": "正在直播",
+		  "module":"449351"}
+		  ],
+          "url": "http://www.yy.com/chicken/lol"
+        },
+        {
+          "title": "综合游戏",
+		  "biz": "chicken",
+		  "subBiz": "djry",
+		  "sort": [
+		  {
+		  "type": "所有直播",
+		  "module":"3687"},
+		    {
+		  "type": "穿越火线",
+		  "module":"448497"},  
+		  {
+		  "type": "原神",
+		  "module":"448495"},  
+		  {
+		  "type": "CS:GO",
+		  "module":"448496"}, 
+		  {
+		  "type": "DNF",
+		  "module":"449313"},  
+		  {
+		  "type": "炉石传说",
+		  "module":"448499"}
+		  ],
+          "url": "http://www.yy.com/djry"
+        }
+      ],
+      "id": 2,
+      "priority": 0,
+      "title": "游戏",
+      "parentId": 0,
+      "url": "http://www.yy.com/catalog/game"
+    },
+    {
+      "navs": [
+       {
+          "title": "综合",
+		  "biz": "other",
+		  "subBiz": "zonghe",
+		  "sort": [
+		  {
+		  "type": "正在直播",
+		  "module":"3643"}
+		  ],
+          "url": "http://www.yy.com/chicken/lol"
+        },
+      ],
+      "id": 3,
+      "priority": 0,
+      "title": "其他",
+      "parentId": 0,
+      "url": "http://www.yy.com/catalog/other"
+    }
+  ]
+}
