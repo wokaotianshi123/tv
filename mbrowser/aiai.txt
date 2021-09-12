@@ -230,8 +230,8 @@ https://assets.codehub.cn/static/favicon.ico$q:直播源
 音乐=biz=sing&subBiz=idx&moduleId=308&pageSize=60
 颜值=biz=pretty&subBiz=idx&moduleId=449237&pageSize=60
 脱口秀=biz=talk&subBiz=idx&moduleId=328&pageSize=60
-旅游=biz=lvyou&subBiz=idx&moduleId=560&pageSize=60
-搭讪=biz=danshan&subBiz=idx&moduleId=556&pageSize=60
+旅游=biz=red&subBiz=lvyou&moduleId=560&pageSize=60
+搭讪=biz=red&subBiz=danshan&moduleId=556&pageSize=60
 户外=biz=red&subBiz=idx&moduleId=1872&pageSize=60
 美食=biz=meishi&subBiz=idx&moduleId=1656&pageSize=60
 喊麦=biz=mc&subBiz=idx&moduleId=322&pageSize=60
