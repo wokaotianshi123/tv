@@ -291,7 +291,7 @@ if(uu.indexOf("baidu.com")!=-1){
 }
 ######搜索TAB列表
 var filename=e2Rex("QVBQ5pCc57Si5YiX6KGo",".t().dn64()");
- getHttp(JSON.stringify({url:"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/" + filename}));
+ getHttp(JSON.stringify({url:"https://tianshiaiaiai.coding.net/p/tvmovie/d/tv/git/tree/master/AppFile" + filename}));
 ######搜索地址
 var Url=getVar("urls");
    if(Url.indexOf("api.php/app")!=-1){
