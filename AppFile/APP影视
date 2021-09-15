@@ -295,9 +295,9 @@ var filename=e2Rex("QVBQ5pCc57Si5YiX6KGo",".t().dn64()");
 ######搜索地址
 var Url=getVar("urls");
    if(Url.indexOf("api.php/app")!=-1){
-        "search?text="+getVar("KEY")+"&pg=";
+        "search?text="+getVar("KEYW")+"&pg=";
     }else{
-        "?limit=10&wd="+getVar("KEY")+"&page=";
+        "?limit=10&wd="+getVar("KEYW")+"&page=";
     }
 ######搜索词
 var URL=getVar("urls");
