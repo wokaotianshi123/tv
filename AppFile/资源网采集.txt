@@ -105,7 +105,7 @@ KK看剧,http://www.kkkanju.com/api.php/provide/vod/
 随便看电影,https://www.sbkdy.com/inc/api.php
 X8影音,https://www.x8x8-vip-1.ru/api.php/provide/vod/
 #
-#18+
+#.
 77资源,https://www.77zy.vip/inc/m3u8.php
 523资源,https://caiji.523zyw.com/inc/api.php
 丝袜资源,https://siwazyw.net/api.php/provide/vod/
