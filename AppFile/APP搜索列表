@@ -131,22 +131,6 @@
     云播影视=http://yunbo.bxin.tv/api.php/iptv/vod/
     小极TV=http://tv.8d8q.com/api.php/iptv/vod/
     臻彩视界=http://203.lxyyy.xyz:81/api.php/iptv/vod/vod/
-    "},
-     {
-    "title":".",
-    "img":"",
-    "murl":"q:其他影视搜索",
-    "list":"
-爱麻豆=http://emodao.la/api.php/provide/vod/
-抖阴视频=https://www.888dav.com/api.php/provide/vod/
-柚萌视频=https://nameweb.xyz/api.php/provide/vod/
-浪潮资源=http://langchaozy6.com/api.php/provide/vod/
-速播资源=http://api.suboapi.com/api.php/provide/vod/
-探探资源=https://apittzy.com/api.php/provide/vod/
-桃色资源=https://api.taoseapi.com/api.php/provide/vod/
-花椒资源=https://apihjzy.com/api.php/provide/vod/
-乐播资源=https://lbapi9.com/api.php/provide/vod/
-趣播资源=https://www.qbzyz.com/api.php/provide/vod/
     "}
 ]
 }
