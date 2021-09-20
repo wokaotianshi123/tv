@@ -296,9 +296,9 @@ var filename=e2Rex("QVBQ5b2x6KeG5pCc57Si5YiX6KGoLnR4dA==",".t().dn64()");
 var URL=getVar("urls");
 
     if(URL.indexOf("api.php/app")!=-1||URL.indexOf("xgapp.php/v1")!=-1){
-        "search?text="+getVar("KEY")+"&pg=";
+        "search?text="+getVar("KEYW")+"&pg=";
     }else{
-        "?limit=10&wd="+getVar("KEY")+"&page=";
+        "?limit=10&wd="+getVar("KEYW")+"&page=";
     }
 
 ######搜索词
