@@ -291,7 +291,7 @@ if(uu.indexOf("baidu.com")!=-1){
 }
 ######搜索TAB列表
 var filename=e2Rex("QVBQ5b2x6KeG5pCc57Si5YiX6KGoLnR4dA==",".t().dn64()");
-    getHttp(JSON.stringify({url:"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/" + filename}));
+    getHttp(JSON.stringify({url:"https://tianshiaiaiai.coding.net/p/tvmovie/d/tv/git/raw/master/AppFile/" + filename}));
 ######搜索地址
 var URL=getVar("urls");
 
@@ -367,7 +367,7 @@ var filename=e2Rex("QVBQ5b2x6KeG5YiX6KGo",".t().dn64()");
 
 var filename=e2Rex("QVBQ5b2x6KeG5YiX6KGo",".t().dn64()");
 
-    var 原=getHttp(JSON.stringify({url:"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/"+filename})).replace(/\s/g,"");
+    var 原=getHttp(JSON.stringify({url:"https://tianshiaiaiai.coding.net/p/tvmovie/d/tv/git/raw/master/AppFile/"+filename})).replace(/\s/g,"");
     var 分类=e2Arr(原,".z(\\{[^{].+?\\})");
     var newArr=分类.filter(item=>item.indexOf("api.php/app")!=-1||item.search("xgapp.php/v1")!=-1||item.search(/api.php\/.*?\.vod/)!=-1);
     var 随机=newArr[Math.floor(Math.random()*newArr.length)];
