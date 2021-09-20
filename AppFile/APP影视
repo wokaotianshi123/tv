@@ -353,16 +353,7 @@ if(version==NewVersion&&sign==NewSign){
     }
 ]
 }
-######APP影视首页轮播图数据
 
-var filename=e2Rex("QVBQ5b2x6KeG5YiX6KGo",".t().dn64()");
-
-    getHttp(JSON.stringify({url:"http://zly.xjqxz.top/api.php/v1.vod?level=9"}));
-
-######APP影视首页轮播图数据
-{
-    "murl":"q:xml播放器?url=http://zly.xjqxz.top/api.php/v1.vod/detail?vod_id="
-}
 ######APP影视首页轮播图随机网址
 
 var filename=e2Rex("QVBQ5b2x6KeG5YiX6KGo",".t().dn64()");
