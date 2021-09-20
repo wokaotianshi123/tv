@@ -19,7 +19,7 @@
         {
         "title":"榜单",
         "url":"",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/293影院.png",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/段友影视©.png",
         "murl":"q:豆瓣榜单"
         },
         {
