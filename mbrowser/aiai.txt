@@ -8,7 +8,7 @@
         "title":"影视分类",
         "url":"",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/19影视.png",
-        "murl":"q:影视分类首页"
+        "murl":"q:分类"
         },
         {
         "title":"片单",
