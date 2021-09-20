@@ -313,4 +313,4 @@ JSON.stringify({url:playurl});
 var filename=e2Rex("eG1s5pCc57Si5YiX6KGoLnR4dA==",".t().dn64()");
 
 
-    getHttp(JSON.stringify({url:"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/" + filename}));
+    getHttp(JSON.stringify({url:"https://tianshiaiaiai.coding.net/p/tvmovie/d/tv/git/raw/master/AppFile/" + filename}));
