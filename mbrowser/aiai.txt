@@ -218,6 +218,7 @@ https://act.inke.cn/common/favicon.ico$q:映客直播
 https://app-center.cdn.bcebos.com/appcenter/sts/pcfile/5308322888/80764d51aa94303808e7993293ff1637.jpg$q:斗鱼直播
 https://web.yystatic.com/project/yycom_h5_index/mobile/images/yy-44d718ffd4.png$q:YY直播
 https://p3.ssl.qhimg.com/t012fc3cc6b1f1fa2b8.png$q:花椒直播
+https://cc.res.netease.com/act/m/daily/wapcc/icon/apple-touch-icon.png$q:CC直播
 #体育直播
 https://static.zouauto.cn/favicon0.ico$q:说球帝
 https://sta.nansidapei.com/file/wap/img/logoapp.png$q:收米直播
