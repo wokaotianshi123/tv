@@ -71,26 +71,6 @@
                 
             ]
         },
-    {
-      "key": "特殊乐bo影视",
-      "name": "特殊乐bo影视",
-      "type": 0,
-      "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-            "categories": [
-                
-            ]
-    },
-    {
-      "key": "特殊速度影视",
-      "name": "特殊速度影视",
-      "type": 0,
-      "api": "http://www.ggmmzy.com:9999/inc/xml",
-      "playUrl": "",
-            "categories": [
-                
-            ]
-    },
         {
             "key": "独播库",
             "name": "独播库",
