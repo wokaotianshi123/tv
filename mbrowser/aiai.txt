@@ -248,3 +248,5 @@ https://assets.codehub.cn/static/favicon.ico$q:直播源
 英雄联盟=biz=chicken&subBiz=lol&moduleId=449351&pageSize=60
 综合游戏=biz=chicken&subBiz=djry&moduleId=3687&pageSize=60
 其他=biz=other&subBiz=zonghe&moduleId=3643&pageSize=60
+######Bearer
+Authorization:Bearer cd9089be9873ef9968b19d3bc95bcecb
