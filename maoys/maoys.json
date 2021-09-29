@@ -849,7 +849,7 @@
     "wasu",
     "bilibili"
   ],
-  "spider": "http://www.pandown.pro/custom_spider.jar",
+  "spider": "https://tianshiaiaiai.coding.net/p/tvmovie/d/tv/git/raw/master/maoys/custom_spider.jar",
   "parses": [
     {
       "name": "暮光解析",
