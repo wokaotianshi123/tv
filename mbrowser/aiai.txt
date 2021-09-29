@@ -250,5 +250,3 @@ https://assets.codehub.cn/static/favicon.ico$q:直播源
 其他=biz=other&subBiz=zonghe&moduleId=3643&pageSize=60
 ######Bearer
 Authorization:Bearer cd9089be9873ef9968b19d3bc95bcecb
-######片单UA
-api-client/1 com.douban.frodo/6.36.0(186) Android/23 product/cancro vendor/HUAWEI model/Mate 10 rom/android network/wifi platform/mobile
