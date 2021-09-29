@@ -18,6 +18,42 @@
             ]
         },
         {
+    "key": "csp_Aidi",
+    "name": "爱迪(爬虫)",
+    "type": 3,
+    "api": "csp_Aidi",
+    "searchable": 1,
+    "quickSearch": 0,
+    "filterable": 1
+    },
+    {
+    "key": "csp_Enlienli",
+    "name": "嗯哩(爬虫)",
+    "type": 3,
+    "api": "csp_Enlienli",
+    "searchable": 1,
+    "quickSearch": 0,
+    "filterable": 1
+    },
+    {
+     "key": "csp_EPang",
+     "name": "阿房(爬虫)",
+     "type": 3,
+     "api": "csp_EPang",
+     "searchable": 1,
+     "quickSearch": 0,
+     "filterable": 1
+    },
+    {
+      "key": "csp_Auete",
+      "name": "Auete(爬虫)",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+        {
             "key": "神马影院",
             "name": "神马影院",
             "type": 0,
@@ -1640,6 +1676,20 @@
             ]
         }
     ],
+    "flags": [
+    "youku",
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "wasu",
+    "bilibili"
+  ],
+  "spider": "http://www.pandown.pro/custom_spider.jar",
     "parses": [
         {
            "name": "默认解析",
