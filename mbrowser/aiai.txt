@@ -250,3 +250,14 @@ https://assets.codehub.cn/static/favicon.ico$q:直播源
 其他=biz=other&subBiz=zonghe&moduleId=3643&pageSize=60
 ######Bearer
 Authorization:Bearer cd9089be9873ef9968b19d3bc95bcecb
+######重组8
+var code=getCode();
+var list=[];
+var lb=e2Arr(code,".get(ul.content_playlist.cf)");
+var bt=e2Arr(code,".get(a.swiper-slide)");
+for(var i=0;i<lb.length;i++){
+var 列表=bt[i]+lb[i];
+list.push(列表);
+}
+JSON.stringify(list);
+
