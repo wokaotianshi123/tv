@@ -5,10 +5,11 @@
     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/江湖影视.png",
     "murl":"q:APP影视搜索",
     "list":"
-    007影视=https://www.007ts.cc/api.php/app/
+       007影视=https://www.007ts.cc/api.php/app/
     555电影=http://w7tv.com/api.php/app/
     5060影院=https://app.linzhiyuan.xyz/xgapp.php/v1/
     913E影视=http://www.913e.net/api.php/app/
+    BD电影=https://www.bddysf.org/api.php/app/
     COKEMV=https://cokemv.me/xgapp.php/v1/
     播放呀=https://www.bofangya.com/xgapp.php/v1/
     畅视影视=http://app.reboju.net/api.php/app/
@@ -28,22 +29,24 @@
     琳琅影视=https://www.u23c.com/api.php/app/
     极乐阁=https://vip.wuqcms.com/api.php/app/
     萌蛋蛋=http://app.mengdandan.com/xgapp.php/v1/
-    思古影视=https://app.siguyy.com/xgapp.php/v1/
     氢视频=http://h1080p.com/api.php/app/
+    思古影视=https://app.siguyy.com/xgapp.php/v1/
+    糖果影视=https://www.tgys.tv/api.php/app/
     污妖动漫=https://www.wyydm.com/api.php/app/
     小易影视=https://xy.irop.cn/api.php/app/
     影视工场=https://www.ik4.cc/api.php/app/
     追剧达人=http://vipmv.tv/xgapp.php/v1/
+    猪猪影院=https://www.zzyingyuan.com/api.php/app/
     "},
     {
     "title":"APP影视(v1)",
     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/南府追剧.png",
     "murl":"q:APP影视(v1)搜索",
     "list":"
+   红牛影视=http://cmm.218rcw.cn/api.php/gctvapi.vod
     555TV=http://gxhshyy.com/api.php/gctvapi.vod
     80影视=http://www.ccc8.net/api.php/v1.vod
     80K影视=https://1080p.tv/api.php/v1.vod
-    987影视=https://hd.9875.xyz/api.php/v1.vod
     CJT影院=https://www.cjt521.com/api.php/v1.vod
     FUFU=https://fufu.ixhduta.cn/api.php/v1.vod
     HG影视=http://cs.hgyx.vip/api.php/v1.vod
@@ -59,7 +62,7 @@
     段友影视=http://jimmyzhao.top/api.php/v1.vod
     段友影视=https://ishangwo.top/api.php/v1.vod
     蝶众影院=http://app.diezz.net/api.php/v1.vod
-    飞捷影视=http://www.fj6080.com/api.php/v1.vod
+    飞捷影视=https://www.fj6080.com/api.php/v1.vod
     佛系追剧=http://foxi.kk06.top/mogai_api.php/v1.vod
     公主影视=http://mm.tcsdchina.com:6096/mogai_api.php/v1.vod
     辉哥影视=https://app.y.hgyule8.com/api.php/v1.vod
@@ -102,7 +105,7 @@
     天天影视=https://www.tiantianys8.com/api.php/v1.vod
     团夕影院=http://119.29.121.48/api.php/v1.vod
     兔子窝=http://cj.huimaojia.com:12345/mogai_api.php/v1.vod
-    我爱电影=http://v.5imv.cc/api.php/v1.vod
+    我爱电影=http://app.5imv.cc/api.php/v1.vod
     我爱跟剧=http://www.52gen.com/api.php/v1.vod
     吾爱影视=http://app.5lp.net/api.php/v1.vod
     蜗牛看鸭=http://movie.wokewu.cn/api.php/v1.vod
@@ -119,6 +122,7 @@
     益达影院=http://luobu.yss6080.com/mogai_api.php/v1.vod
     元芳影视=http://yfys1122.com/mogai_api.php/v1.vod
     颖家影院=http://zly.xjqxz.top/api.php/v1.vod
+    优全影视=https://app.xmyun.xyz/api.php/v1.vod
     影视热剧=http://lb.26ys.cn/api.php/v1.vod
     杨桃影视=http://ytys1122.com/mogai_api.php/v1.vod
     月色影视=http://69ty.cc/mogai_api.php/v1.vod
@@ -132,13 +136,14 @@
     宅男影院=https://www.znyy666.top/api.php/v1.vod
     侦探影视=http://ys.huangguay.com/mogai_api.php/v1.vod
     追影兔=http://longw.xyz:91/api.php/v1.vod
+    猪猪影院=http://app.2zdyy.com/api.php/v1.vod
     "},
     {
     "title":"TV影视",
     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/293影院.png",
     "murl":"q:TV影视搜索",
     "list":"
-    2号币=http://phoebe.cf/api.php/iptv/vod/
+  2号币=http://phoebe.cf/api.php/iptv/vod/
     尘梓TV=http://139.155.177.213/api.php/iptv/vod/
     稻草人TV=http://www.zhaikanys.xyz/api.php/iptv1/vod/
     嘀哩嘀哩=https://api.diliktv.xyz/api.php/Chengcheng/vod/
@@ -152,6 +157,7 @@
     双子星=http://tv.diyoui.cc/api.php/iptv/vod/
     云播影视=http://yunbo.bxin.tv/api.php/iptv/vod/
     影酷TV=http://zy.pxun.top/api.php/iptv/vod/
+    小极TV=http://api.8d8q.com/mmv/api.php/Chengcheng/vod/
     "},
     {
     "title":".",
