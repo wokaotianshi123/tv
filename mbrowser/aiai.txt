@@ -261,7 +261,7 @@ list.push(列表);
 }
 JSON.stringify(list);
 ######重组9
-js=var code=getCode();
+var code=getCode();
 var list=[];
 var lb=e2Arr(code,".get(div.fed-play-item.fed-drop-item)");
 var bt=e2Arr(code,".get(ul.fed-part-rows).i(6).get(li > a)");
