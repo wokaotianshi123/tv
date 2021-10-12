@@ -1737,16 +1737,7 @@
   ],
   "spider": "https://tianshiaiaiai.coding.net/p/tvmovie/d/tv/git/raw/master/maoys/custom_spider.jar",
     "parses": [
-        {
-    "name": "Json并发",
-    "type": 2,
-    "url": "Parallel"
-  },
-  {
-    "name": "Json轮询",
-    "type": 2,
-    "url": "Sequence"
-  },
+       
         {
            "name": "默认解析",
             "url": "https://vip.bljiex.com/?v="
@@ -1771,6 +1762,16 @@
             "name": "全民解析",
             "url": "https://jx.mw0.cc/?url="
         },
+         {
+    "name": "Json并发",
+    "type": 2,
+    "url": "Parallel"
+  },
+  {
+    "name": "Json轮询",
+    "type": 2,
+    "url": "Sequence"
+  },
         {
             "name": "千亿2",
             "url": "https://www.qianyicp.com/?url="
