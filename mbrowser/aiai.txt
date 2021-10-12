@@ -200,8 +200,7 @@ http://dou.plus/$index.html@
 http://xjj.nbtd.vip/$index.html@
 https://www.xlzyw.com/$xjj/ks/@
 https://tvv.tw/xjj/$kuaishou/@
-https://xjiejie.vip$@
-https://imeizi.me/$mvideo/
+https://xjiejie.vip$
 ######重组7
 var code=getCode();
 var list=[];
