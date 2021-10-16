@@ -34,12 +34,6 @@
             "murl":"q:APP影视"
             },
             {
-            "title":"COKEMV",
-            "url":"https://cokemv.me/xgapp.php/v1/",
-            "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/COKEMV.png",
-            "murl":"q:APP影视"
-            },
-            {
             "title":"爱尚影视",
             "url":"https://www.aisvod.tv/xgapp.php/v1/",
             "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/爱尚影视.png",
