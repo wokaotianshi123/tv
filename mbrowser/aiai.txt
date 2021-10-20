@@ -264,10 +264,11 @@ JSON.stringify(list);
 ######重组9
 var code=getCode();
 var list=[];
-var lb=e2Arr(code,".get(div.fed-play-item.fed-drop-item)");
-var bt=e2Arr(code,".get(ul.fed-part-rows).i(6).get(li > a)");
+var lb=e2Arr(code,".get(div.playlist.clearfix)");
+var bt=e2Arr(code,".get(dt)");
 for(var i=0;i<lb.length;i++){
 var 列表=bt[i]+lb[i];
 list.push(列表);
 }
 JSON.stringify(list);
+
