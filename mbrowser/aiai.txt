@@ -250,7 +250,7 @@ https://assets.codehub.cn/static/favicon.ico$q:直播源
 综合游戏=biz=chicken&subBiz=djry&moduleId=3687&pageSize=60
 其他=biz=other&subBiz=zonghe&moduleId=3643&pageSize=60
 ######Bearer
-Authorization:Bearer cd9089be9873ef9968b19d3bc95bcecb
+
 ######重组8
 var code=getCode();
 var list=[];
