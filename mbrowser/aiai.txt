@@ -31,7 +31,7 @@
         {
         "title":"小姐姐",
         "url":"",
-        "img":"https://tianshiaiaiai.coding.net/p/tvmovie/d/tv/git/raw/master/AppFile/AppIcon/xjj.png",
+        "img":"https://tianshiaiaiai.coding.net/p/tvmovie/d/tv/git/raw/master/AppFile/AppIcon/xjj.gif",
         "murl":"q:随机视频"
         },
         {
