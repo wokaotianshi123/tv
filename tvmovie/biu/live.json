@@ -1,0 +1,79 @@
+{
+    "live": [
+        {
+            "title": "安徽黄山·卧云峰",
+            "url": "https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8?contentid=2820180516001",
+            "pic": "https://p3.img.cctvpic.com/photoworkspace/2021/01/18/2021011812383799914.jpg"
+        },
+        {
+            "title": "安徽黄山·始信新道",
+            "url": "https://gctxyc.liveplay.myqcloud.com/gc/hsyg_1/index.m3u8?contentid=2820180516001",
+            "pic": "https://p3.img.cctvpic.com/photoworkspace/2021/01/18/2021011812384357852.jpg"
+        },
+		{
+		    "title": "安徽黄山·梦笔生花",
+		    "url": "https://gctxyc.liveplay.myqcloud.com/gc/hsmbsh_1/index.m3u8?contentid=2820180516001",
+		    "pic": "https://p2.img.cctvpic.com/photoworkspace/2021/01/18/2021011812384923979.jpg"
+		},
+		{
+		    "title": "安徽黄山·排云亭",
+		    "url": "https://gctxyc.liveplay.myqcloud.com/gc/hspyt_1/index.m3u8?contentid=2820180516001",
+		    "pic": "https://p2.img.cctvpic.com/photoworkspace/2021/01/18/2021011812385437972.jpg"
+		},
+		{
+		    "title": "安徽黄山·平天矼",
+		    "url": "https://gctxyc.liveplay.myqcloud.com/gc/hsptgz_1/index.m3u8?contentid=2820180516001",
+		    "pic": "https://p5.img.cctvpic.com/photoworkspace/2021/01/18/2021011812390262536.jpg"
+		},
+		{
+		    "title": "安徽黄山·飞来石",
+		    "url": "https://gctxyc.liveplay.myqcloud.com/gc/hsptgy_1/index.m3u8?contentid=2820180516001",
+		    "pic": "https://p2.img.cctvpic.com/photoworkspace/2021/01/18/2021011812390748295.jpg"
+		},
+		{
+		    "title": "安徽黄山·光明顶",
+		    "url": "https://gctxyc.liveplay.myqcloud.com/gc/hsgmd_1/index.m3u8?contentid=2820180516001",
+		    "pic": "https://p3.img.cctvpic.com/photoworkspace/2021/01/18/2021011812391362607.jpg"
+		},
+		{
+		    "title": "安徽黄山·西海大峡谷",
+		    "url": "https://gctxyc.liveplay.myqcloud.com/gc/hsxhdxg_1/index.m3u8?contentid=2820180516001",
+		    "pic": "https://p2.img.cctvpic.com/photoworkspace/2021/03/22/2021032212595934426.jpg"
+		},
+		{
+		    "title": "江苏南京·玄武湖",
+		    "url": "https://gcksc.v.kcdnvip.com/gc/xwh01_1/index.m3u8?contentid=2820180516001",
+		    "pic": "https://p5.img.cctvpic.com/photoworkspace/2021/01/05/2021010518020188684.jpg"
+		},
+		{
+		    "title": "江苏南京·鼓楼广场",
+		    "url": "https://gcksc.v.kcdnvip.com/gc/hkylxs01_1/index.m3u8?contentid=2820180516001",
+		    "pic": "https://p4.img.cctvpic.com/photoworkspace/2021/09/18/2021091819494767629.jpg"
+		},
+		{
+		    "title": "北京延庆·妫川广场",
+		    "url": "https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8?contentid=2820180516001",
+		    "pic": "https://p5.img.cctvpic.com/photoworkspace/2021/10/27/2021102710525411975.jpg"
+		},
+		{
+		    "title": "北京密云·古北水镇",
+		    "url": "https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8?contentid=2820180516001",
+		    "pic": "https://p2.img.cctvpic.com/photoworkspace/2021/03/02/2021030214345925108.jpg"
+		},
+		{
+		    "title": "北京·海洋馆",
+		    "url": "https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8?contentid=2820180516001",
+		    "pic": "https://p3.img.cctvpic.com/photoworkspace/2020/12/23/2020122316362454313.jpg"
+		},
+		{
+		    "title": "河南省·云台山红石峡",
+		    "url": "https://gccncc.v.wscdns.com/gc/ytshsx_1/index.m3u8?contentid=2820180516001",
+		    "pic": "https://p4.img.cctvpic.com/photoworkspace/2021/01/18/2021011811551884766.jpg"
+		},
+		{
+		    "title": "海南文昌·冯家湾",
+		    "url": "https://gcbdc.a.bdydns.com/gc/hgsylztpb_1/index.m3u8?contentid=2820180516001",
+		    "pic": "https://p2.img.cctvpic.com/photoworkspace/2021/12/27/2021122718302830384.jpg"
+		}
+    ]
+}
