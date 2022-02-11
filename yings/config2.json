@@ -422,6 +422,204 @@
         "searchUrl": "http://tcspvip.cn/api.php/v1.vod?page=1&limit=10&wd=%s",
         "detailUrl": "http://tcspvip.cn/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
         "parserUrl": ""
+    },
+    {
+        "type": "aiKanTv",
+        "sourceName": "天天影视",
+        "baseUrl": "",
+        "apiUrl": "https://app.daishusc.com/api.php/v1.vod",
+        "searchUrl": "https://app.daishusc.com/api.php/v1.vod?page=1&limit=10&wd=%s",
+        "detailUrl": "https://app.daishusc.com/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+        "parserUrl": ""
+    },
+    {
+        "type": "aiKanTv",
+        "sourceName": "温妮影视",
+        "baseUrl": "",
+        "apiUrl": "https://www.wenniys.com/mogai_api.php/v1.vod",
+        "searchUrl": "https://www.wenniys.com/mogai_api.php/v1.vod?page=1&limit=10&wd=%s",
+        "detailUrl": "https://www.wenniys.com/mogai_api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+        "parserUrl": ""
+    },
+    {
+        "type": "aiKanTv",
+        "sourceName": "小白动漫",
+        "baseUrl": "",
+        "apiUrl": "http://121.62.60.222:20222/mogai_api.php/v1.vod",
+        "searchUrl": "http://121.62.60.222:20222/mogai_api.php/v1.vod?page=1&limit=10&wd=%s",
+        "detailUrl": "http://121.62.60.222:20222/mogai_api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+        "parserUrl": ""
+    },
+    {
+        "type": "aiKanTv",
+        "sourceName": "星辰视频",
+        "baseUrl": "",
+        "apiUrl": "https://m.hj0999.com/api.php/v1.vod",
+        "searchUrl": "https://m.hj0999.com/api.php/v1.vod?page=1&limit=10&wd=%s",
+        "detailUrl": "https://m.hj0999.com/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+        "parserUrl": ""
+    },
+    {
+        "type": "aiKanTv",
+        "sourceName": "小极影视",
+        "baseUrl": "",
+        "apiUrl": "http://app.8d8q.com/api.php/v1.vod",
+        "searchUrl": "http://app.8d8q.com/api.php/v1.vod?page=1&limit=10&wd=%s",
+        "detailUrl": "http://app.8d8q.com/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+        "parserUrl": ""
+    },
+    {
+        "type": "aiKanTv",
+        "sourceName": "心鸾影视",
+        "baseUrl": "",
+        "apiUrl": "http://zhiyutv.xyz/api.php/v1.vod",
+        "searchUrl": "http://zhiyutv.xyz/api.php/v1.vod?page=1&limit=10&wd=%s",
+        "detailUrl": "http://zhiyutv.xyz/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+        "parserUrl": ""
+    },
+    {
+        "type": "aiKanTv",
+        "sourceName": "雪人影视",
+        "baseUrl": "",
+        "apiUrl": "https://zy.qd234.cn/mogai_api.php/v1.vod",
+        "searchUrl": "https://zy.qd234.cn/mogai_api.php/v1.vod?page=1&limit=10&wd=%s",
+        "detailUrl": "https://zy.qd234.cn/mogai_api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+        "parserUrl": ""
+    },
+    {
+        "type": "aiKanTv",
+        "sourceName": "益达影院",
+        "baseUrl": "",
+        "apiUrl": "http://luobu.yss6080.com/mogai_api.php/v1.vod",
+        "searchUrl": "http://luobu.yss6080.com/mogai_api.php/v1.vod?page=1&limit=10&wd=%s",
+        "detailUrl": "http://luobu.yss6080.com/mogai_api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+        "parserUrl": ""
+    },
+    {
+        "type": "aiKanTv",
+        "sourceName": "雨果影视",
+        "baseUrl": "",
+        "apiUrl": "http://2.yhys63.com/api.php/v1.vod",
+        "searchUrl": "http://2.yhys63.com/api.php/v1.vod?page=1&limit=10&wd=%s",
+        "detailUrl": "http://2.yhys63.com/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+        "parserUrl": ""
+    },
+    {
+        "type": "aiKanTv",
+        "sourceName": "影视大全",
+        "baseUrl": "",
+        "apiUrl": "http://app.269w.com/api.php/v1.vod",
+        "searchUrl": "http://app.269w.com/api.php/v1.vod?page=1&limit=10&wd=%s",
+        "detailUrl": "http://app.269w.com/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+        "parserUrl": ""
+    },
+    {
+        "type": "aiKanTv",
+        "sourceName": "月色影视",
+        "baseUrl": "",
+        "apiUrl": "http://69ty.cc/mogai_api.php/v1.vod",
+        "searchUrl": "http://69ty.cc/mogai_api.php/v1.vod?page=1&limit=10&wd=%s",
+        "detailUrl": "http://69ty.cc/mogai_api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+        "parserUrl": ""
+    },
+    {
+        "type": "aiKanTv",
+        "sourceName": "优视影视",
+        "baseUrl": "",
+        "apiUrl": "http://app.ysys.asia/lvdou_api.php/v1.vod",
+        "searchUrl": "http://app.ysys.asia/lvdou_api.php/v1.vod?page=1&limit=10&wd=%s",
+        "detailUrl": "http://app.ysys.asia/lvdou_api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+        "parserUrl": ""
+    },
+    {
+        "type": "aiKanTv",
+        "sourceName": "影阅阁",
+        "baseUrl": "",
+        "apiUrl": "http://221.236.18.12:665/api.php/v1.vod",
+        "searchUrl": "http://221.236.18.12:665/api.php/v1.vod?page=1&limit=10&wd=%s",
+        "detailUrl": "http://221.236.18.12:665/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+        "parserUrl": ""
+    },
+    {
+        "type": "aiKanTv",
+        "sourceName": "追剧吧",
+        "baseUrl": "",
+        "apiUrl": "http://zhuiju8.vip/api.php/v1.vod",
+        "searchUrl": "http://zhuiju8.vip/api.php/v1.vod?page=1&limit=10&wd=%s",
+        "detailUrl": "http://zhuiju8.vip/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+        "parserUrl": ""
+    },
+    {
+        "type": "aiKanTv",
+        "sourceName": "51视频",
+        "baseUrl": "",
+        "apiUrl": "http://51shipin.cc/mogai_api.php/v1.vod",
+        "searchUrl": "http://51shipin.cc/mogai_api.php/v1.vod?page=1&limit=10&wd=%s",
+        "detailUrl": "http://51shipin.cc/mogai_api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+        "parserUrl": ""
+    },
+    {
+        "type": "aiKanTv",
+        "sourceName": "80影视",
+        "baseUrl": "",
+        "apiUrl": "http://www.ccc8.net/api.php/v1.vod",
+        "searchUrl": "http://www.ccc8.net/api.php/v1.vod?page=1&limit=10&wd=%s",
+        "detailUrl": "http://www.ccc8.net/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+        "parserUrl": ""
+    },
+    {
+        "type": "aiKanTv",
+        "sourceName": "JDODO",
+        "baseUrl": "",
+        "apiUrl": "https://appys.jdodo.xyz/mogai_api.php/v1.vod",
+        "searchUrl": "https://appys.jdodo.xyz/mogai_api.php/v1.vod?page=1&limit=10&wd=%s",
+        "detailUrl": "https://appys.jdodo.xyz/mogai_api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+        "parserUrl": ""
+    },
+    {
+        "type": "aiKanTv",
+        "sourceName": "QC影视",
+        "baseUrl": "",
+        "apiUrl": "https://www.qcsvip.com/mogai_api.php/v1.vod",
+        "searchUrl": "https://www.qcsvip.com/mogai_api.php/v1.vod?page=1&limit=10&wd=%s",
+        "detailUrl": "https://www.qcsvip.com/mogai_api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+        "parserUrl": ""
+    },
+    {
+        "type": "aiKanTv",
+        "sourceName": "U5影视",
+        "baseUrl": "",
+        "apiUrl": "https://appx.uy07.com/api.php/v1.vod",
+        "searchUrl": "https://appx.uy07.com/api.php/v1.vod?page=1&limit=10&wd=%s",
+        "detailUrl": "https://appx.uy07.com/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+        "parserUrl": ""
+    },
+    {
+        "type": "aiKanTv",
+        "sourceName": "XG影视",
+        "baseUrl": "",
+        "apiUrl": "http://cms.xggm.top/ruifenglb_api.php/v1.vod",
+        "searchUrl": "http://cms.xggm.top/ruifenglb_api.php/v1.vod?page=1&limit=10&wd=%s",
+        "detailUrl": "http://cms.xggm.top/ruifenglb_api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+        "parserUrl": ""
+    },
+    {
+        "type": "aiKanTv",
+        "sourceName": "yoyo",
+        "baseUrl": "",
+        "apiUrl": "http://jx.wnvod.net/ruifenglb_api.php/v1.vod",
+        "searchUrl": "http://jx.wnvod.net/ruifenglb_api.php/v1.vod?page=1&limit=10&wd=%s",
+        "detailUrl": "http://jx.wnvod.net/ruifenglb_api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+        "parserUrl": ""
+    },
+    {
+        "type": "aiKanTv",
+        "sourceName": "阿里影视",
+        "baseUrl": "",
+        "apiUrl": "http://aliys.cn:90/api.php/v1.vod",
+        "searchUrl": "http://aliys.cn:90/api.php/v1.vod?page=1&limit=10&wd=%s",
+        "detailUrl": "http://aliys.cn:90/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+        "parserUrl": ""
     }
     ],
     "parseUrl": [
