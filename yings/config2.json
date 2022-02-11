@@ -482,7 +482,7 @@
         "apiUrl": "http://tv2.hetaoys.vip/api.php/iptv/vod",
         "searchUrl": "http://tv2.hetaoys.vip/api.php/iptv/vod?ac=list&wd=%s&page=1",
         "parserUrl": ""
-    },
+    }
     ],
     "parseUrl": [
     "https://okjx.cc?url=",
