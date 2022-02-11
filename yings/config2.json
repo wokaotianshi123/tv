@@ -1734,79 +1734,23 @@
     },
     {
         "type": "",
-        "sourceName": "605资源",
+        "sourceName": "芒果资源（成人）",
         "baseUrl": "http://www.605zy.co",
-        "apiUrl": "http://www.605zy.co/inc/api.php",
+        "apiUrl": "https://www.mgav1.cc/api.php/provide/vod/at/xml",
         "parserUrl": ""
     },
     {
         "type": "",
-        "sourceName": "快播资源",
-        "baseUrl": "http://www.kuaibozy.com",
-        "apiUrl": "http://www.kuaibozy.com/api.php/provide/vodat/xml",
+        "sourceName": "番号资源（成人）",
+        "baseUrl": "http://fhapi9.com",
+        "apiUrl": "http://fhapi9.com/api.php/provide/vod/at/xml/",
         "parserUrl": ""
     },
     {
         "type": "",
-        "sourceName": "明日资源",
-        "baseUrl": "http://zy.zcocc.com",
-        "apiUrl": "http://zy.zcocc.com/api.php/provide/vodat/xml",
-        "parserUrl": ""
-    },
-    {
-        "type": "",
-        "sourceName": "柚子资源",
-        "baseUrl": "http://tv.aitesucai.xyz",
-        "apiUrl": "http://tv.aitesucai.xyz/api.php/provide/vodat/xml",
-        "parserUrl": ""
-    },
-    {
-        "type": "",
-        "sourceName": "安逸资源",
-        "baseUrl": "http://dy.51isu.com",
-        "apiUrl": "http://dy.51isu.com:11801/api.php/provide/vodat/xml",
-        "parserUrl": ""
-    },
-    {
-        "type": "",
-        "sourceName": "39资源",
-        "baseUrl": "https://www.39kan.com",
-        "apiUrl": "https://www.39kan.com/api.php/provide/vodat/xml",
-        "parserUrl": ""
-    },
-    {
-        "type": "",
-        "sourceName": "88资源",
-        "baseUrl": "http://www.88zyw.net",
-        "apiUrl": "http://www.88zyw.net/inc/api.php",
-        "parserUrl": ""
-    },
-    {
-        "type": "",
-        "sourceName": "太初资源",
-        "baseUrl": "https://www.tcmove.com",
-        "apiUrl": "https://www.tcmove.com/api.php/provide/vodat/xml",
-        "parserUrl": ""
-    },
-    {
-        "type": "",
-        "sourceName": "好好资源",
-        "baseUrl": "http://haohaozy.com",
-        "apiUrl": "http://haohaozy.com/api.php/provide/vodat/xml",
-        "parserUrl": ""
-    },
-    {
-        "type": "",
-        "sourceName": "萌果资源",
-        "baseUrl": "http://api.appearoo.top",
-        "apiUrl": "http://api.appearoo.top/api.php/provide/vodat/xml",
-        "parserUrl": ""
-    },
-    {
-        "type": "",
-        "sourceName": "橘猫资源",
-        "baseUrl": "http://www.zitv.cc",
-        "apiUrl": "http://www.zitv.cc/api.php/provide/vodat/xml",
+        "sourceName": "鲨鱼资源（成人）",
+        "baseUrl": "https://shayuapi.com",
+        "apiUrl": "https://shayuapi.com/api.php/Seacms/vod/",
         "parserUrl": ""
     },
     {
@@ -1814,20 +1758,6 @@
         "sourceName": "最快资源",
         "baseUrl": "http://cj.1886zy.co",
         "apiUrl": "http://cj.1886zy.co/inc/seacmsapi.php",
-        "parserUrl": ""
-    },
-    {
-        "type": "",
-        "sourceName": "8090资源",
-        "baseUrl": "http://zy.yilans.net:8090",
-        "apiUrl": "http://zy.yilans.net:8090/api.php/provide/vodat/xml",
-        "parserUrl": ""
-    },
-    {
-        "type": "",
-        "sourceName": "TV资源",
-        "baseUrl": "http://tv.aitesucai.xyz",
-        "apiUrl": "http://tv.aitesucai.xyz/api.php/provide/vodat/xml",
         "parserUrl": ""
     }
     ],
