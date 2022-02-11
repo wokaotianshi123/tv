@@ -1,7 +1,7 @@
 {
   "source": [
       {
-        "type": "AppV0",
+        "type": "aiKanTv",
         "sourceName": "绿箭影视",
         "baseUrl": "",
         "apiUrl": "http://3ketv.com/mogai_api.php/v1.vod",
@@ -10,7 +10,7 @@
         "parserUrl": ""
     },
     {
-        "type": "AppV0",
+        "type": "aiKanTv",
         "sourceName": "零刻影院",
         "baseUrl": "",
         "apiUrl": "https://ys.ling00.cn/api.php/v1.vod",
