@@ -1154,6 +1154,15 @@
     },
     {
         "type": "aiKanTv",
+        "sourceName": "熊猫动漫",
+        "baseUrl": "",
+        "apiUrl": "http://dongman.k8aa.com/mogai_api.php/v1.vod",
+        "searchUrl": "http://dongman.k8aa.com/mogai_api.php/v1.vod?page=1&limit=10&wd=%s",
+        "detailUrl": "http://dongman.k8aa.com/mogai_api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+        "parserUrl": ""
+    },
+    {
+        "type": "aiKanTv",
         "sourceName": "熊猫视频",
         "baseUrl": "",
         "apiUrl": "http://anegh.com/lvdou_api.php/v1.vod",
@@ -1240,105 +1249,6 @@
         "apiUrl": "https://www.dmwu.cc/api.php/v1.vod",
         "searchUrl": "https://www.dmwu.cc/api.php/v1.vod?page=1&limit=10&wd=%s",
         "detailUrl": "https://www.dmwu.cc/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
-        "parserUrl": ""
-    },
-    {
-        "type": "aiKanTv",
-        "sourceName": "月亮影视",
-        "baseUrl": "",
-        "apiUrl": "http://ys.13tv.top/acj_api.php/v1.vod",
-        "searchUrl": "http://ys.13tv.top/acj_api.php/v1.vod?page=1&limit=10&wd=%s",
-        "detailUrl": "http://ys.13tv.top/acj_api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
-        "parserUrl": ""
-    },
-    {
-        "type": "aiKanTv",
-        "sourceName": "影视大全",
-        "baseUrl": "",
-        "apiUrl": "https://xc.xixi2yy.xyz/mogai_api.php/v1.vod",
-        "searchUrl": "https://xc.xixi2yy.xyz/mogai_api.php/v1.vod?page=1&limit=10&wd=%s",
-        "detailUrl": "https://xc.xixi2yy.xyz/mogai_api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
-        "parserUrl": ""
-    },
-    {
-        "type": "aiKanTv",
-        "sourceName": "影视热剧",
-        "baseUrl": "",
-        "apiUrl": "http://lb.26ys.cn/api.php/v1.vod",
-        "searchUrl": "http://lb.26ys.cn/api.php/v1.vod?page=1&limit=10&wd=%s",
-        "detailUrl": "http://lb.26ys.cn/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
-        "parserUrl": ""
-    },
-    {
-        "type": "aiKanTv",
-        "sourceName": "渔渔影视",
-        "baseUrl": "",
-        "apiUrl": "http://luobo.yugenye.site/api.php/v1.vod",
-        "searchUrl": "http://luobo.yugenye.site/api.php/v1.vod?page=1&limit=10&wd=%s",
-        "detailUrl": "http://luobo.yugenye.site/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
-        "parserUrl": ""
-    },
-    {
-        "type": "aiKanTv",
-        "sourceName": "优优影院",
-        "baseUrl": "",
-        "apiUrl": "http://xin.jjsvip.cc/mogai_api.php/v1.vod",
-        "searchUrl": "http://xin.jjsvip.cc/mogai_api.php/v1.vod?page=1&limit=10&wd=%s",
-        "detailUrl": "http://xin.jjsvip.cc/mogai_api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
-        "parserUrl": ""
-    },
-    {
-        "type": "aiKanTv",
-        "sourceName": "柚子视频",
-        "baseUrl": "",
-        "apiUrl": "http://yz.26ys.cn/api.php/v1.vod",
-        "searchUrl": "http://yz.26ys.cn/api.php/v1.vod?page=1&limit=10&wd=%s",
-        "detailUrl": "http://yz.26ys.cn/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
-        "parserUrl": ""
-    },
-    {
-        "type": "aiKanTv",
-        "sourceName": "鱼仔影视",
-        "baseUrl": "",
-        "apiUrl": "http://yuzaio.top/api.php/v1.vod",
-        "searchUrl": "http://yuzaio.top/api.php/v1.vod?page=1&limit=10&wd=%s",
-        "detailUrl": "http://yuzaio.top/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
-        "parserUrl": ""
-    },
-    {
-        "type": "aiKanTv",
-        "sourceName": "追剧达人",
-        "baseUrl": "",
-        "apiUrl": "https://www.zhuijudaren.com/mogai_api.php/v1.vod",
-        "searchUrl": "https://www.zhuijudaren.com/mogai_api.php/v1.vod?page=1&limit=10&wd=%s",
-        "detailUrl": "https://www.zhuijudaren.com/mogai_api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
-        "parserUrl": ""
-    },
-    {
-        "type": "aiKanTv",
-        "sourceName": "追剧猫",
-        "baseUrl": "",
-        "apiUrl": "http://tv.kmtvb.com/api.php/v1.vod",
-        "searchUrl": "http://tv.kmtvb.com/api.php/v1.vod?page=1&limit=10&wd=%s",
-        "detailUrl": "http://tv.kmtvb.com/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
-        "parserUrl": ""
-    },
-    {
-        "type": "aiKanTv",
-        "sourceName": "侦探影视",
-        "baseUrl": "",
-        "apiUrl": "http://ys.huangguay.com/mogai_api.php/v1.vod",
-        "searchUrl": "http://ys.huangguay.com/mogai_api.php/v1.vod?page=1&limit=10&wd=%s",
-        "detailUrl": "http://ys.huangguay.com/mogai_api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
-        "parserUrl": ""
-    },
-    {
-        "type": "aiKanTv",
-        "sourceName": "猪猪影院",
-        "baseUrl": "",
-        "apiUrl": "http://app.2zdyy.com/api.php/v1.vod",
-        "searchUrl": "http://app.2zdyy.com/api.php/v1.vod?page=1&limit=10&wd=%s",
-        "detailUrl": "http://app.2zdyy.com/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
         "parserUrl": ""
     }
     ],
