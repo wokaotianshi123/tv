@@ -1241,33 +1241,6 @@
         "searchUrl": "http://app.2zdyy.com/api.php/v1.vod?page=1&limit=10&wd=%s",
         "detailUrl": "http://app.2zdyy.com/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
         "parserUrl": ""
-    },
-    {
-        "type": "aiKanTv",
-        "sourceName": "熊猫视频",
-        "baseUrl": "",
-        "apiUrl": "http://anegh.com/lvdou_api.php/v1.vod",
-        "searchUrl": "http://anegh.com/lvdou_api.php/v1.vod?page=1&limit=10&wd=%s",
-        "detailUrl": "http://anegh.com/lvdou_api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
-        "parserUrl": ""
-    },
-    {
-        "type": "aiKanTv",
-        "sourceName": "玺娜影视",
-        "baseUrl": "",
-        "apiUrl": "https://.wxina.cn/api.php/v1.vod",
-        "searchUrl": "https://.wxina.cn/api.php/v1.vod?page=1&limit=10&wd=%s",
-        "detailUrl": "https://.wxina.cn/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
-        "parserUrl": ""
-    },
-    {
-        "type": "aiKanTv",
-        "sourceName": "小蜻蜓",
-        "baseUrl": "",
-        "apiUrl": "http://3ketv.com/mogai_api.php/v1.vod",
-        "searchUrl": "http://3ketv.com/mogai_api.php/v1.vod?page=1&limit=10&wd=%s",
-        "detailUrl": "http://3ketv.com/mogai_api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
-        "parserUrl": ""
     }
     ],
     "parseUrl": [
