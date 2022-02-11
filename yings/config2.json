@@ -170,7 +170,319 @@
         "searchUrl": "https://www.wyydm.com/api.php/app/search?text=%s&pg=1",
         "detailUrl": "https://www.wyydm.com/api.php/app/video_detail?id=%s",
         "parserUrl": ""
-    }
+    },
+    {
+        "type": "AppTV",
+        "sourceName": "2号币",
+        "baseUrl": "",
+        "apiUrl": "http://phoebe.cf/api.php/iptv/vod",
+        "searchUrl": "http://phoebe.cf/api.php/iptv/vod?ac=list&wd=%s&page=1",
+        "parserUrl": ""
+    },
+    {
+        "type": "AppTV",
+        "sourceName": "CV影视",
+        "baseUrl": "",
+        "apiUrl": "http://www.cccvvv.top/api.php/iptv/vod",
+        "searchUrl": "http://www.cccvvv.top/api.php/iptv/vod?ac=list&wd=%s&page=1",
+        "parserUrl": ""
+    },
+    {
+        "type": "AppTV",
+        "sourceName": "HG影视",
+        "baseUrl": "",
+        "apiUrl": "http://api.hgyx.vip/api.php/iptv/vod",
+        "searchUrl": "http://api.hgyx.vip/api.php/iptv/vod?ac=list&wd=%s&page=1",
+        "parserUrl": ""
+    },
+    {
+        "type": "AppTV",
+        "sourceName": "傲视影院",
+        "baseUrl": "",
+        "apiUrl": "http://j.zjj.life:88/mv/api.php/Chengcheng/vod",
+        "searchUrl": "http://j.zjj.life:88/mv/api.php/Chengcheng/vod?ac=list&wd=%s&page=1",
+        "parserUrl": ""
+    },
+    {
+        "type": "AppTV",
+        "sourceName": "爱西西TV",
+        "baseUrl": "",
+        "apiUrl": "http://tv.aixixi.vip/api.php/iptv/vod",
+        "searchUrl": "http://tv.aixixi.vip/api.php/iptv/vod?ac=list&wd=%s&page=1",
+        "parserUrl": ""
+    },
+    {
+        "type": "AppTV",
+        "sourceName": "白熊影院",
+        "baseUrl": "",
+        "apiUrl": "http://qt.yhzy.xyz/api.php/iptv/vod",
+        "searchUrl": "http://qt.yhzy.xyz/api.php/iptv/vod?ac=list&wd=%s&page=1",
+        "parserUrl": ""
+    },
+    {
+        "type": "AppTV",
+        "sourceName": "刺桐影视",
+        "baseUrl": "",
+        "apiUrl": "http://tv.cttv.vip/api.php/iptv/vod",
+        "searchUrl": "http://tv.cttv.vip/api.php/iptv/vod?ac=list&wd=%s&page=1",
+        "parserUrl": ""
+    },
+    {
+        "type": "AppTV",
+        "sourceName": "尘梓TV",
+        "baseUrl": "",
+        "apiUrl": "http://cztv.vip:83/api.php/chenziystv/vod",
+        "searchUrl": "http://cztv.vip:83/api.php/chenziystv/vod?ac=list&wd=%s&page=1",
+        "parserUrl": ""
+    },
+    {
+        "type": "AppTV",
+        "sourceName": "叮当TV",
+        "baseUrl": "",
+        "apiUrl": "http://tv.hyddys.top/api.php/iptv/vod",
+        "searchUrl": "http://tv.hyddys.top/api.php/iptv/vod?ac=list&wd=%s&page=1",
+        "parserUrl": ""
+    },
+    {
+        "type": "AppTV",
+        "sourceName": "嘀哩嘀哩",
+        "baseUrl": "",
+        "apiUrl": "https://api.diliktv.xyz/api.php/Chengcheng/vod",
+        "searchUrl": "https://api.diliktv.xyz/api.php/Chengcheng/vod?ac=list&wd=%s&page=1",
+        "parserUrl": ""
+    },
+    {
+        "type": "AppTV",
+        "sourceName": "动力影视",
+        "baseUrl": "",
+        "apiUrl": "http://www.love9989.com/api.php/iptv/vod",
+        "searchUrl": "http://www.love9989.com/api.php/iptv/vod?ac=list&wd=%s&page=1",
+        "parserUrl": ""
+    },
+    {
+        "type": "AppTV",
+        "sourceName": "大师兄",
+        "baseUrl": "",
+        "apiUrl": "http://dsxtv.tv.ci/api.php/dsx/vod",
+        "searchUrl": "http://dsxtv.tv.ci/api.php/dsx/vod?ac=list&wd=%s&page=1",
+        "parserUrl": ""
+    },
+    {
+        "type": "AppTV",
+        "sourceName": "二货影视",
+        "baseUrl": "",
+        "apiUrl": "http://d.zjj.life:88/mv/api.php/Chengcheng/vod",
+        "searchUrl": "http://d.zjj.life:88/mv/api.php/Chengcheng/vod?ac=list&wd=%s&page=1",
+        "parserUrl": ""
+    },
+    {
+        "type": "AppTV",
+        "sourceName": "非凡影院",
+        "baseUrl": "",
+        "apiUrl": "http://cms.feifan12.xyz/api.php/iptv/vod",
+        "searchUrl": "http://cms.feifan12.xyz/api.php/iptv/vod?ac=list&wd=%s&page=1",
+        "parserUrl": ""
+    },
+    {
+        "type": "AppTV",
+        "sourceName": "飞扬TV",
+        "baseUrl": "",
+        "apiUrl": "http://diancj.zhenfy.cn/api.php/Chengcheng/vod",
+        "searchUrl": "http://diancj.zhenfy.cn/api.php/Chengcheng/vod?ac=list&wd=%s&page=1",
+        "parserUrl": ""
+    },
+    {
+        "type": "AppTV",
+        "sourceName": "嘿荼锋",
+        "baseUrl": "",
+        "apiUrl": "http://tv.hfys8.vip/api.php/Sntv/vod",
+        "searchUrl": "http://tv.hfys8.vip/api.php/Sntv/vod?ac=list&wd=%s&page=1",
+        "parserUrl": ""
+    },
+    {
+        "type": "AppTV",
+        "sourceName": "黑龙影视",
+        "baseUrl": "",
+        "apiUrl": "http://vip.ji-ding-he.site/api.php/iptv/vod",
+        "searchUrl": "http://vip.ji-ding-he.site/api.php/iptv/vod?ac=list&wd=%s&page=1",
+        "parserUrl": ""
+    },
+    {
+        "type": "AppTV",
+        "sourceName": "河马影院",
+        "baseUrl": "",
+        "apiUrl": "http://1.14.63.101/api.php/Chengcheng/vod",
+        "searchUrl": "http://1.14.63.101/api.php/Chengcheng/vod?ac=list&wd=%s&page=1",
+        "parserUrl": ""
+    },
+    {
+        "type": "AppTV",
+        "sourceName": "聚多影视",
+        "baseUrl": "",
+        "apiUrl": "http://jdyy.weetai.cn/api.php/iptv/vod",
+        "searchUrl": "http://jdyy.weetai.cn/api.php/iptv/vod?ac=list&wd=%s&page=1",
+        "parserUrl": ""
+    },
+    {
+        "type": "AppTV",
+        "sourceName": "久久影院",
+        "baseUrl": "",
+        "apiUrl": "http://l.bhtv.org.cn/mv/api.php/Chengcheng/vod",
+        "searchUrl": "http://l.bhtv.org.cn/mv/api.php/Chengcheng/vod?ac=list&wd=%s&page=1",
+        "parserUrl": ""
+    },
+    {
+        "type": "AppTV",
+        "sourceName": "乐酷TV",
+        "baseUrl": "",
+        "apiUrl": "http://150.138.78.177:2021/api.php/Chengcheng/vod",
+        "searchUrl": "http://150.138.78.177:2021/api.php/Chengcheng/vod?ac=list&wd=%s&page=1",
+        "parserUrl": ""
+    },
+    {
+        "type": "AppTV",
+        "sourceName": "懒猫TV",
+        "baseUrl": "",
+        "apiUrl": "http://www.esellauto.com/api.php/lh/vod",
+        "searchUrl": "http://www.esellauto.com/api.php/lh/vod?ac=list&wd=%s&page=1",
+        "parserUrl": ""
+    },
+    {
+        "type": "AppTV",
+        "sourceName": "六维影视",
+        "baseUrl": "",
+        "apiUrl": "http://liuweiiptv.gq:1357/api.php/iptv/vod",
+        "searchUrl": "http://liuweiiptv.gq:1357/api.php/iptv/vod?ac=list&wd=%s&page=1",
+        "parserUrl": ""
+    },
+    {
+        "type": "AppTV",
+        "sourceName": "流星雨",
+        "baseUrl": "",
+        "apiUrl": "http://nn.lxyyy.xyz:8/c/api.php/WAiLaowang/vod",
+        "searchUrl": "http://nn.lxyyy.xyz:8/c/api.php/WAiLaowang/vod?ac=list&wd=%s&page=1",
+        "parserUrl": ""
+    },
+    {
+        "type": "AppTV",
+        "sourceName": "冷月TV",
+        "baseUrl": "",
+        "apiUrl": "https://tv.521x5.com/api.php/iptv/vod",
+        "searchUrl": "https://tv.521x5.com/api.php/iptv/vod?ac=list&wd=%s&page=1",
+        "parserUrl": ""
+    },
+    {
+        "type": "AppTV",
+        "sourceName": "荔枝影视",
+        "baseUrl": "",
+        "apiUrl": "http://api.zjys.vip/api.php/iptv/vod",
+        "searchUrl": "http://api.zjys.vip/api.php/iptv/vod?ac=list&wd=%s&page=1",
+        "parserUrl": ""
+    },
+    {
+        "type": "AppTV",
+        "sourceName": "免费看TV",
+        "baseUrl": "",
+        "apiUrl": "http://www.freekan.vip/api.php/iptv/vod",
+        "searchUrl": "http://www.freekan.vip/api.php/iptv/vod?ac=list&wd=%s&page=1",
+        "parserUrl": ""
+    },
+    {
+        "type": "AppTV",
+        "sourceName": "蜜果TV",
+        "baseUrl": "",
+        "apiUrl": "http://vv.miguotv.net/m/api.php/Chengcheng/vod",
+        "searchUrl": "http://vv.miguotv.net/m/api.php/Chengcheng/vod?ac=list&wd=%s&page=1",
+        "parserUrl": ""
+    },
+    {
+        "type": "AppTV",
+        "sourceName": "米来影视",
+        "baseUrl": "",
+        "apiUrl": "http://42.51.37.161:2346/api.php/iptv/vod",
+        "searchUrl": "http://42.51.37.161:2346/api.php/iptv/vod?ac=list&wd=%s&page=1",
+        "parserUrl": ""
+    },
+    {
+        "type": "AppTV",
+        "sourceName": "米奇TV",
+        "baseUrl": "",
+        "apiUrl": "http://www.s6ep3.top/api.php/iptv/vod",
+        "searchUrl": "http://www.s6ep3.top/api.php/iptv/vod?ac=list&wd=%s&page=1",
+        "parserUrl": ""
+    },
+    {
+        "type": "AppTV",
+        "sourceName": "七科影视",
+        "baseUrl": "",
+        "apiUrl": "http://tv.7kfm.cn/api.php/iptv/vod",
+        "searchUrl": "http://tv.7kfm.cn/api.php/iptv/vod?ac=list&wd=%s&page=1",
+        "parserUrl": ""
+    },
+    {
+        "type": "AppTV",
+        "sourceName": "若惜影视",
+        "baseUrl": "",
+        "apiUrl": "http://rxw.ruoxinew.com/api.php/Sntv/vod",
+        "searchUrl": "http://rxw.ruoxinew.com/api.php/Sntv/vod?ac=list&wd=%s&page=1",
+        "parserUrl": ""
+    },
+    {
+        "type": "AppTV",
+        "sourceName": "思奇TV",
+        "baseUrl": "",
+        "apiUrl": "http://tv.siqitv.vip/api.php/iptv/vod",
+        "searchUrl": "http://tv.siqitv.vip/api.php/iptv/vod?ac=list&wd=%s&page=1",
+        "parserUrl": ""
+    },
+    {
+        "type": "AppTV",
+        "sourceName": "双子星",
+        "baseUrl": "",
+        "apiUrl": "http://tv.diyoui.cc/api.php/iptv/vod",
+        "searchUrl": "http://tv.diyoui.cc/api.php/iptv/vod?ac=list&wd=%s&page=1",
+        "parserUrl": ""
+    },
+    {
+        "type": "AppTV",
+        "sourceName": "山楂影视",
+        "baseUrl": "",
+        "apiUrl": "http://dy6.dcd1.cn/api.php/iptv/vod",
+        "searchUrl": "http://dy6.dcd1.cn/api.php/iptv/vod?ac=list&wd=%s&page=1",
+        "parserUrl": ""
+    },
+    {
+        "type": "AppTV",
+        "sourceName": "天空TV",
+        "baseUrl": "",
+        "apiUrl": "http://tv.tkys.tv/api.php/iptv/vod",
+        "searchUrl": "http://tv.tkys.tv/api.php/iptv/vod?ac=list&wd=%s&page=1",
+        "parserUrl": ""
+    },
+    {
+        "type": "AppTV",
+        "sourceName": "虾皮视频",
+        "baseUrl": "",
+        "apiUrl": "http://tv.cmt8.xyz/api.php/iptv/vod",
+        "searchUrl": "http://tv.cmt8.xyz/api.php/iptv/vod?ac=list&wd=%s&page=1",
+        "parserUrl": ""
+    },
+    {
+        "type": "AppTV",
+        "sourceName": "小极TV",
+        "baseUrl": "",
+        "apiUrl": "http://api.8d8q.com/mmv/api.php/Chengcheng/vod",
+        "searchUrl": "http://api.8d8q.com/mmv/api.php/Chengcheng/vod?ac=list&wd=%s&page=1",
+        "parserUrl": ""
+    },
+    {
+        "type": "AppTV",
+        "sourceName": "小熊猫TV",
+        "baseUrl": "",
+        "apiUrl": "http://tv2.hetaoys.vip/api.php/iptv/vod",
+        "searchUrl": "http://tv2.hetaoys.vip/api.php/iptv/vod?ac=list&wd=%s&page=1",
+        "parserUrl": ""
+    },
     ],
     "parseUrl": [
     "https://okjx.cc?url=",
