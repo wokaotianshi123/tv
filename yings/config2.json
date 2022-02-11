@@ -4,9 +4,9 @@
         "type": "AppV0",
         "sourceName": "绿箭影视",
         "baseUrl": "",
-        "apiUrl": "http://www.69ty.cc/mogai_api.php/v1.vod",
-        "searchUrl": "http://www.69ty.cc/mogai_api.php/v1.vod?page=1&limit=10&wd=%s",
-        "detailUrl": "http://www.69ty.cc/mogai_api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+        "apiUrl": "http://3ketv.com/mogai_api.php/v1.vod",
+        "searchUrl": "http://3ketv.com/mogai_api.php/v1.vod?page=1&limit=10&wd=%s",
+        "detailUrl": "http://3ketv.com/mogai_api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
         "parserUrl": ""
     },
     {
