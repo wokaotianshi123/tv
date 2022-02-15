@@ -7,12 +7,13 @@
 "lunbofanye": "https://www.douyu.com/gapi/rkc/directory/mixList/2_208/",
 "lunboqianzhui": "https://m.douyu.com",
 "Home": {
-"name": "主页资源",
-"list": "http://television.wkfile.com/api.php/app/video?",
-"detail": "http://television.wkfile.com/api.php/app/video_detail?id=",
-"searchbefore": "http://television.wkfile.com/api.php/app/search?text=",
+"name": "哔滴影视主页资源",
+"list": "http://dilidili.la/api.php/app/video?",
+"detail": "http://dilidili.la/api.php/app/video_detail?id=",
+"searchbefore": "http://dilidili.la/api.php/app/search?text=",
 "searchlater": "&pg=1",
 "extra": "&limit=20&pg=",
+"shifouerciquzhi": "0",
 "suffix": "",
 "play": "vod_url_with_player",
 "dy": {
