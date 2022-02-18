@@ -74,23 +74,8 @@ var 列表=bt[i]+lb[i];
 list.push(列表);
 }
 JSON.stringify(list);
-######聚合搜索TAB列表
-{
-"data":[
-    {
-    "title":"聚合搜索",
-    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/江湖影视.png",
-    "murl":"q:聚合搜索",
-    "list":"
-    555电影=https://www.555dy6.com
-    9亿=https://9ehao.com
-    饭团=https://fantuan.tv
-    极品=https://www.jpysvip.net
-    剧好看=https://www.juhaokan.cc
-    追剧吧=https://zjuba.com
-    "}
-]
-}
+######直播分类筛选
+分类+综合=2022zonghe+国内=202109guo+国外=202109wai
 ######电视剧筛选
 剧情+全部=+古装+都市+言情+武侠+战争+青春+喜剧+家庭+伦理+谍战+军旅+犯罪+动作+奇幻+神话+剧情+历史+经典+乡村+情景+商战+网剧+其他
 地区+全部=+内地+韩国+香港+台湾+日本+泰国+新加坡+其他地区
