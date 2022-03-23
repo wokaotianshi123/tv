@@ -267,8 +267,8 @@ JSON.stringify(list);
 ######重组11
 var code=getCode();
 var list=[];
-var lb=e2Arr(code,".get(div.stui-pannel__bd ul.stui-content__playlist)");
-var bt=e2Arr(code,".get(div.stui-pannel-box).get(h3)");
+var lb=e2Arr(code,".get(ul.stui-content__playlist)");
+var bt=e2Arr(code,".get(h3)");
 for(var i=0;i<lb.length;i++){
 var 列表=bt[i]+lb[i];
 list.push(列表);
