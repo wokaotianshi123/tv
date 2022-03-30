@@ -15,7 +15,7 @@
 }
 ######首页轮播图
 var update=getVar("版本更新");
-var NewVersion="20211016";
+var NewVersion="20220330";
 var version=e2Rex(getVar("QMINFO"),".xml(version).z(\\d+)");
 var appSign="d566171c6a64659aad784524c76ab569";
 var sign=e2Rex(getVar("QMINFO"),".xml(sign).t()").replace(/\s/g,"");
