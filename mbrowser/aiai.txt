@@ -198,7 +198,6 @@ list.push(列表);
 JSON.stringify(list);
 ######直播首页内容
 #综合直播
-https://tianshiaiaiai.coding.net/p/tvmovie/d/tv/git/raw/master/AppFile/AppIcon/qqgame.png$q:企鹅电竞
 https://www.bilibili.com/favicon.ico$q:哔哩直播
 https://act.inke.cn/common/favicon.ico$q:映客直播
 https://app-center.cdn.bcebos.com/appcenter/sts/pcfile/5308322888/80764d51aa94303808e7993293ff1637.jpg$q:斗鱼直播
