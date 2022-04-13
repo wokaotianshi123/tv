@@ -175,7 +175,6 @@ list.push(列表);
 JSON.stringify(list);
 ######小姐姐
 https://tvv.tw/$xjj/get@
-https://mm.diskgirl.com/$pc.html@
 https://v.nrzj.vip/$@
 http://wmsp.cc/$xjj.html@
 https://xjj.349457.xyz/$@
@@ -184,7 +183,6 @@ http://www.kuaidoushe.com/$@
 http://dou.plus/$index.html@
 http://xjj.nbtd.vip/$index.html@
 https://www.nihaowua.com/$v/@
-https://tvv.tw/xjj/$kuaishou/@
 https://xjiejie.vip$
 ######重组7
 var code=getCode();
