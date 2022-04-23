@@ -274,8 +274,8 @@ JSON.stringify(list);
 ######重组12
 var code=getCode();
 var list=[];
-var lb=e2Arr(code,".get(div.module-tab-items).i(1,0)");
-var bt=e2Arr(code,".get(div.module-tab-content).i(0).get(span)");
+var lb=e2Arr(code,".get(div.module-list)");
+var bt=e2Arr(code,".get(div.module-tab-items .module-tab-item).get(span)");
 for(var i=0;i<lb.length;i++){
 var 列表=bt[i]+lb[i];
 list.push(列表);
