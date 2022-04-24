@@ -1,8 +1,9 @@
-"data":[
-  {
-    "title": "优质",
-    "list": [
-      {
+{
+    "data":[
+        {
+        "title":"优质",
+        "list":[
+             {
         "title": "300看世界",
         "url": "https://300ys.xyz/mogai_api.php/v1.vod",
         "img": "https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/300看世界.png",
@@ -326,12 +327,12 @@
         "img": "https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/南府影视.png",
         "murl": "q:APP影视"
       }
-    ]
-  },
-  {
-    "title": "普通",
-    "list": [
-      {
+        ]
+        },
+        {
+        "title":"普通",
+        "list":[
+             {
         "title": "1080KK",
         "url": "http://123.250idc.com/mogai_api.php/v1.vod",
         "img": "https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/1080KK.png",
@@ -733,12 +734,12 @@
         "img": "https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/追剧影院.png",
         "murl": "q:APP影视"
       }
-    ]
-  },
-  {
-    "title": "神马",
-    "list": [
-      {
+        ]
+        },
+        {
+        "title":"神马",
+        "list":[
+             {
         "title": "2号币",
         "url": "http://phoebe.cf/api.php/iptv/vod/",
         "img": "https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/2号币影院.png",
@@ -894,6 +895,7 @@
         "img": "https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/影视阁.png",
         "murl": "q:TV影视"
       }
+        ]
+        }
     ]
-  }
-]
+}
