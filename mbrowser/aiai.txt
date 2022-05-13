@@ -35,6 +35,12 @@
         "murl":"q:随机视频"
         },
         {
+        "title":"随机",
+        "url":"",
+        "img":"http://www.ninhu.com/NAME-SEX.PNG",
+        "murl":"q:随机"
+        },
+        {
         "title":"直播",
         "url":"",
         "img":"https://tianshiaiaiai.coding.net/p/tvmovie/d/tv/git/raw/master/AppFile/AppIcon/zb.png",
