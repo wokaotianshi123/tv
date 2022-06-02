@@ -271,7 +271,7 @@ JSON.stringify(list);
 var code=getCode();
 var list=[];
 var lb=e2Arr(code,".get(ul.stui-content__playlist)");
-var bt=e2Arr(code,".get(h3)");
+var bt=e2Arr(code,".get(.stui-pannel__head > h3)");
 for(var i=0;i<lb.length;i++){
 var 列表=bt[i]+lb[i];
 list.push(列表);
