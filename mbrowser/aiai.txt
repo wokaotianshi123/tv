@@ -7,31 +7,31 @@
         {
         "title":"影视分类",
         "url":"",
-        "img":"https://tianshiaiaiai.coding.net/p/tvmovie/d/tv/git/raw/master/AppFile/AppIcon/dy.png",
+        "img":"https://gitcode.net/weixin_44448955/tv/-/raw/master/AppFile/AppIcon/dy.png",
         "murl":"q:分类"
         },
         {
         "title":"片单",
         "url":"",
-        "img":"https://tianshiaiaiai.coding.net/p/tvmovie/d/tv/git/raw/master/AppFile/AppIcon/dsj.png",
+        "img":"https://gitcode.net/weixin_44448955/tv/-/raw/master/AppFile/AppIcon/dsj.png",
         "murl":"q:片单1"
         },
         {
         "title":"榜单",
         "url":"",
-        "img":"https://tianshiaiaiai.coding.net/p/tvmovie/d/tv/git/raw/master/AppFile/AppIcon/bd.png",
+        "img":"https://gitcode.net/weixin_44448955/tv/-/raw/master/AppFile/AppIcon/bd.png",
         "murl":"q:豆瓣榜单"
         },
         {
         "title":"好看视频",
         "url":"",
-        "img":"https://tianshiaiaiai.coding.net/p/tvmovie/d/tv/git/raw/master/AppFile/AppIcon/hk.png",
+        "img":"https://gitcode.net/weixin_44448955/tv/-/raw/master/AppFile/AppIcon/hk.png",
         "murl":"q:好看视频"
         },
         {
         "title":"小姐姐",
         "url":"",
-        "img":"https://tianshiaiaiai.coding.net/p/tvmovie/d/tv/git/raw/master/AppFile/AppIcon/xjj.gif",
+        "img":"https://gitcode.net/weixin_44448955/tv/-/raw/master/AppFile/AppIcon/xjj.gif",
         "murl":"q:随机视频"
         },
         {
@@ -43,7 +43,7 @@
         {
         "title":"直播",
         "url":"",
-        "img":"https://tianshiaiaiai.coding.net/p/tvmovie/d/tv/git/raw/master/AppFile/AppIcon/zb.png",
+        "img":"https://gitcode.net/weixin_44448955/tv/-/raw/master/AppFile/AppIcon/zb.png",
         "murl":"q:直播首页"
         }
 		]
