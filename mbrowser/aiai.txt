@@ -189,7 +189,7 @@ http://www.kuaidoushe.com/$@
 http://dou.plus/$index.html@
 http://xjj.nbtd.vip/$index.html@
 https://www.nihaowua.com/$v/@
-https://xjiejie.vip$
+https://xjiejie.co/$
 ######重组7
 var code=getCode();
 var list=[];
